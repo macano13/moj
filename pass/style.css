@@ -1,0 +1,45 @@
+.small-font {
+
+font-size: 10px;
+
+}
+
+.btn-success {
+
+ margin-right: 5px;
+}
+
+
+
+.sent-msg {
+    color: #fff;
+    background-color: #343a40;
+    border-color: #343a40;
+    display: flex!important;
+    justify-content: center;
+    max-width: fit-content;
+    margin: auto;
+    margin-top: 5px;
+}
+
+input.input1 {
+    text-align: center;
+    width: 100%;
+    border-radius: 5px;
+}
+
+header {
+    max-width: 80%;
+    height: 5vh;
+    background: black;
+    border-bottom: 3px solid green;
+    margin: auto;
+    border-radius: 8px;
+}
+
+.pass-new {
+    margin: auto!important;
+    display: flex!important;
+    justify-content: center!important;
+}
+

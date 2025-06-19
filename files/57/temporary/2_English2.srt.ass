@@ -1,0 +1,1014 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:08.70,0:01:10.00,Default,,0,0,0,,Kako se Zemlja nastavlja zagrijavati
+Dialogue: 0,0:01:10.08,0:01:12.50,Default,,0,0,0,,i razarajuce suse i glad muce stanovnistvo,
+Dialogue: 0,0:01:12.59,0:01:17.86,Default,,0,0,0,,nauka trazi novu planetu na kojoj bi ljudski zivot mogao napredovati.
+Dialogue: 0,0:01:17.95,0:01:23.06,Default,,0,0,0,,I otkriva da je 2063.
+Dialogue: 0,0:01:25.67,0:01:27.70,Default,,0,0,0,,Plava oznacava vodu.
+Dialogue: 0,0:01:27.74,0:01:30.47,Default,,0,0,0,,Crvena je kisik.
+Dialogue: 0,0:01:30.50,0:01:34.27,Default,,0,0,0,,Ovo je nasa najbolja sansa da pronadjemo nastanjivu planetu.
+Dialogue: 0,0:01:34.31,0:01:35.88,Default,,0,0,0,,Jedan koji mozemo kolonizirati
+Dialogue: 0,0:01:35.91,0:01:39.51,Default,,0,0,0,,i tako osigurati opstanak nase vrste.
+Dialogue: 0,0:01:39.55,0:01:41.85,Default,,0,0,0,,Sa pogorsanjem situacije ovdje na Zemlji,
+Dialogue: 0,0:01:41.88,0:01:44.18,Default,,0,0,0,,bitno je da posaljemo izvidjacku misiju
+Dialogue: 0,0:01:44.22,0:01:46.95,Default,,0,0,0,,sto je brze moguce.
+Dialogue: 0,0:01:46.99,0:01:50.36,Default,,0,0,0,,Putovanje tamo trajat ce 86 godina.
+Dialogue: 0,0:01:50.39,0:01:53.19,Default,,0,0,0,,Dakle, posada ce se reprodukovati na brodu,
+Dialogue: 0,0:01:53.23,0:01:57.33,Default,,0,0,0,,a njihovi unuci ce biti ti koji ce doci na planetu.
+Dialogue: 0,0:02:09.84,0:02:11.78,Default,,0,0,0,,Nobelovac za fiziku,
+Dialogue: 0,0:02:14.95,0:02:18.69,Default,,0,0,0,,pozdravi MIT bio-inzenjera.
+Dialogue: 0,0:02:52.75,0:02:56.59,Default,,0,0,0,,Nas prvi izazov bio je pronalazak 30 kvalificiranih clanova posade
+Dialogue: 0,0:02:56.62,0:02:59.43,Default,,0,0,0,,sposoban da se nosi sa stresom duzeg zatocenja.
+Dialogue: 0,0:02:59.46,0:03:02.53,Default,,0,0,0,,To i saznanje da se nece vratiti.
+Dialogue: 0,0:03:02.56,0:03:06.50,Default,,0,0,0,,Nase rjesenje, uzgajanje i uzgajanje vlastite posade.
+Dialogue: 0,0:03:06.53,0:03:09.87,Default,,0,0,0,,Trenirajte ih izolirano kako im nece nedostajati Zemlja.
+Dialogue: 0,0:03:09.90,0:03:12.44,Default,,0,0,0,,Tada je sljedeci korak procjena
+Dialogue: 0,0:03:12.47,0:03:15.04,Default,,0,0,0,,kad budu spremni za polazak.
+Dialogue: 0,0:03:15.08,0:03:18.44,Default,,0,0,0,,Što su mladji, to duze mozemo stedjeti resurse
+Dialogue: 0,0:03:18.48,0:03:21.35,Default,,0,0,0,,i produziti vremenski okvir misije.
+Dialogue: 0,0:03:21.38,0:03:24.38,Default,,0,0,0,,Ali oni ce biti sami na brodu.
+Dialogue: 0,0:03:24.42,0:03:26.75,Default,,0,0,0,,I dok imam svako povjerenje u nase obrazovanje
+Dialogue: 0,0:03:26.79,0:03:28.32,Default,,0,0,0,,i sistem upravljanja,
+Dialogue: 0,0:03:30.02,0:03:32.66,Default,,0,0,0,,Najvise me brine sto oni
+Dialogue: 0,0:03:32.69,0:03:33.83,Default,,0,0,0,,biti u stanju boriti se protiv opasnosti
+Dialogue: 0,0:03:33.86,0:03:35.50,Default,,0,0,0,,mogu se suociti putem.
+Dialogue: 0,0:03:38.36,0:03:40.33,Default,,0,0,0,,Neke tek pocinjemo razumijevati.
+Dialogue: 0,0:04:24.85,0:04:26.88,Default,,0,0,0,,Dekontaminacija zavrsena.
+Dialogue: 0,0:04:44.77,0:04:46.83,Default,,0,0,0,,- Richard! - Richard!
+Dialogue: 0,0:04:51.10,0:04:52.14,Default,,0,0,0,,Richard.
+Dialogue: 0,0:04:56.58,0:04:59.45,Default,,0,0,0,,Kako biste to rijesili?
+Dialogue: 0,0:05:09.02,0:05:10.02,Default,,0,0,0,,Dobro.
+Dialogue: 0,0:05:16.06,0:05:17.83,Default,,0,0,0,,Spavaj dobro, Christopher.
+Dialogue: 0,0:05:19.00,0:05:20.93,Default,,0,0,0,,Spavaj dobro, Sela.
+Dialogue: 0,0:05:20.97,0:05:22.07,Default,,0,0,0,,Spavaj dobro, Zac.
+Dialogue: 0,0:05:23.60,0:05:24.87,Default,,0,0,0,,Bojim se.
+Dialogue: 0,0:05:26.11,0:05:27.61,Default,,0,0,0,,Od cega?
+Dialogue: 0,0:05:27.64,0:05:29.51,Default,,0,0,0,,Ne znam.
+Dialogue: 0,0:05:29.54,0:05:31.01,Default,,0,0,0,,Nema se cega bojati.
+Dialogue: 0,0:05:32.21,0:05:33.45,Default,,0,0,0,,Na sigurnom ste.
+Dialogue: 0,0:05:40.52,0:05:41.59,Default,,0,0,0,,Želim ici s njima.
+Dialogue: 0,0:05:43.62,0:05:45.16,Default,,0,0,0,,To je jednosmjerno putovanje, Richarde.
+Dialogue: 0,0:05:45.19,0:05:47.43,Default,,0,0,0,,Nema povratka.
+Dialogue: 0,0:05:47.46,0:05:48.76,Default,,0,0,0,,Umreces tamo gore.
+Dialogue: 0,0:05:48.80,0:05:50.93,Default,,0,0,0,,Na kraju cu umrijeti ovdje.
+Dialogue: 0,0:05:50.96,0:05:52.87,Default,,0,0,0,,I meni se cini isto.
+Dialogue: 0,0:05:52.90,0:05:55.60,Default,,0,0,0,,Cijeli razlog sto ih odgajamo na ovaj nacin
+Dialogue: 0,0:05:55.64,0:05:57.54,Default,,0,0,0,,je za njihovo mentalno zdravlje.
+Dialogue: 0,0:05:57.57,0:06:01.94,Default,,0,0,0,,Tako im ne nedostaju siroki otvoreni prostori, sunceva svjetlost, ljudi.
+Dialogue: 0,0:06:01.98,0:06:03.74,Default,,0,0,0,,Sada vi, s druge strane,
+Dialogue: 0,0:06:03.78,0:06:04.65,Default,,0,0,0,,tesko ce se nositi sa ...
+Dialogue: 0,0:06:04.68,0:06:05.95,Default,,0,0,0,,Nista ne bih propustio.
+Dialogue: 0,0:06:07.92,0:06:09.15,Default,,0,0,0,,To nije dio plana.
+Dialogue: 0,0:06:09.18,0:06:11.69,Default,,0,0,0,,Znam, znam, ali mislite na to ovako.
+Dialogue: 0,0:06:11.72,0:06:13.75,Default,,0,0,0,,Moci cete pokrenuti prije
+Dialogue: 0,0:06:14.79,0:06:15.79,Default,,0,0,0,,ako podjem s njima.
+Dialogue: 0,0:06:17.26,0:06:19.46,Default,,0,0,0,,Četiri godine umjesto sedam.
+Dialogue: 0,0:06:21.66,0:06:23.60,Default,,0,0,0,,Neko bi trebao biti tamo da ih odgaja.
+Dialogue: 0,0:06:25.50,0:06:26.50,Default,,0,0,0,,Da ih zastiti.
+Dialogue: 0,0:06:29.80,0:06:31.50,Default,,0,0,0,,Znas da sam u pravu.
+Dialogue: 0,0:06:38.65,0:06:40.78,Default,,0,0,0,,T-minus 15 sekundi.
+Dialogue: 0,0:06:40.81,0:06:45.92,Default,,0,0,0,,Idemo na lansiranje. 13, 12, 11 ...
+Dialogue: 0,0:06:45.95,0:06:47.82,Default,,0,0,0,,Prebacite se sa GLC na OBC.
+Dialogue: 0,0:06:49.12,0:06:51.56,Default,,0,0,0,,... 6, 5 ...
+Dialogue: 0,0:06:51.59,0:06:53.53,Default,,0,0,0,,Ukljucite glavne motore.
+Dialogue: 0,0:06:53.56,0:06:56.16,Default,,0,0,0,,... 3, 2, 1 ...
+Dialogue: 0,0:07:41.31,0:07:43.04,Default,,0,0,0,,- U redu. - Jesi dobro?
+Dialogue: 0,0:07:43.08,0:07:44.28,Default,,0,0,0,,-Da.
+Dialogue: 0,0:07:44.31,0:07:45.98,Default,,0,0,0,,- Sretno. - Hvala ti.
+Dialogue: 0,0:07:50.68,0:07:52.15,Default,,0,0,0,,Zatvaranje grotla.
+Dialogue: 0,0:09:17.30,0:09:18.67,Default,,0,0,0,,Vi ste veza izmedju proslosti
+Dialogue: 0,0:09:18.71,0:09:20.67,Default,,0,0,0,,i buduce generacije
+Dialogue: 0,0:09:20.71,0:09:22.98,Default,,0,0,0,,i povjereno im je prezivljavanje nase vrste.
+Dialogue: 0,0:09:23.01,0:09:24.98,Default,,0,0,0,,Imat cete djecu na brodu,
+Dialogue: 0,0:09:25.01,0:09:27.71,Default,,0,0,0,,a vasi unuci ce biti ti koji ce doci do planete.
+Dialogue: 0,0:09:27.75,0:09:29.42,Default,,0,0,0,,Doci ce do reprodukcije na brodu
+Dialogue: 0,0:09:29.45,0:09:32.05,Default,,0,0,0,,vestackom oplodnjom i inkubacijom
+Dialogue: 0,0:09:32.09,0:09:36.16,Default,,0,0,0,,tokom 24. godine svake generacije kako bi se maksimizirali resursi.
+Dialogue: 0,0:11:01.84,0:11:06.78,Default,,0,0,0,,Pa, mi smo prva generacija, pa nikada necemo vidjeti planetu.
+Dialogue: 0,0:11:06.81,0:11:08.18,Default,,0,0,0,,Nikada necemo saznati sta otkrivaju.
+Dialogue: 0,0:11:09.02,0:11:10.48,Default,,0,0,0,,To je istina.
+Dialogue: 0,0:11:10.52,0:11:12.82,Default,,0,0,0,,Nasi zivoti su nevazni.
+Dialogue: 0,0:11:12.85,0:11:14.85,Default,,0,0,0,,Ne, tvoj zivot,
+Dialogue: 0,0:11:14.89,0:11:16.89,Default,,0,0,0,,moj zivot je vazan koliko i bilo ciji.
+Dialogue: 0,0:11:17.56,0:11:18.76,Default,,0,0,0,,Ovdje ili na Zemlji.
+Dialogue: 0,0:11:22.83,0:11:24.13,Default,,0,0,0,,Pokazacu vam nesto.
+Dialogue: 0,0:11:27.10,0:11:29.17,Default,,0,0,0,,Ne bi smio dopustiti da ih iko vidi.
+Dialogue: 0,0:11:30.47,0:11:34.17,Default,,0,0,0,,To su moj otac i njegovi roditelji.
+Dialogue: 0,0:11:34.21,0:11:36.14,Default,,0,0,0,,Djeda i bake.
+Dialogue: 0,0:11:36.18,0:11:39.41,Default,,0,0,0,,Nikad ih nisam poznavao, ali znam da su zivjeli posten zivot.
+Dialogue: 0,0:11:39.45,0:11:43.15,Default,,0,0,0,,Znate, oni su brinuli o svojoj porodici, osiguravali su buducnost.
+Dialogue: 0,0:11:43.18,0:11:44.88,Default,,0,0,0,,To je sve sto svako od nas moze uciniti.
+Dialogue: 0,0:12:50.88,0:12:52.22,Default,,0,0,0,,Šta ima?
+Dialogue: 0,0:12:52.25,0:12:53.99,Default,,0,0,0,,U vodi za navodnjavanje ima toksina.
+Dialogue: 0,0:12:55.66,0:12:58.43,Default,,0,0,0,,Pa, zamijenite filter i ponovo ga testirajte.
+Dialogue: 0,0:12:58.46,0:13:00.93,Default,,0,0,0,,Dolazi od nas, u mokraci je.
+Dialogue: 0,0:13:00.96,0:13:02.06,Default,,0,0,0,,Da, to je od necega sto smo jeli.
+Dialogue: 0,0:13:02.10,0:13:04.63,Default,,0,0,0,,Jedemo li nesto otrovno?
+Dialogue: 0,0:13:04.67,0:13:08.94,Default,,0,0,0,,Mozda otrovno za biljku koja se oslanja iskljucivo na vodu,
+Dialogue: 0,0:13:08.97,0:13:10.07,Default,,0,0,0,,ali jaci ste od toga.
+Dialogue: 0,0:13:12.34,0:13:14.41,Default,,0,0,0,,Šta je? U cemu je hemikalija?
+Dialogue: 0,0:13:14.44,0:13:17.08,Default,,0,0,0,,Ne znam. Samo promijenite taj filter.
+Dialogue: 0,0:13:34.13,0:13:35.33,Default,,0,0,0,,Hej!
+Dialogue: 0,0:13:35.36,0:13:36.60,Default,,0,0,0,,Šta mislite o ovome?
+Dialogue: 0,0:13:38.57,0:13:40.57,Default,,0,0,0,,To je sastojak necega sto jedemo.
+Dialogue: 0,0:13:44.04,0:13:45.51,Default,,0,0,0,,Zasto to ne bi bilo dostupno?
+Dialogue: 0,0:13:56.12,0:13:57.12,Default,,0,0,0,,Idemo.
+Dialogue: 0,0:14:10.50,0:14:12.23,Default,,0,0,0,,Kako ste prosli vatrozid?
+Dialogue: 0,0:14:12.27,0:14:14.57,Default,,0,0,0,,Povezivanjem direktno na procesor.
+Dialogue: 0,0:14:14.60,0:14:16.67,Default,,0,0,0,,To je isti nacin na koji sam usao u planove dizajna.
+Dialogue: 0,0:14:23.34,0:14:24.94,Default,,0,0,0,,- Hmm. - Isprobajte "Prehrana."
+Dialogue: 0,0:14:27.31,0:14:28.58,Default,,0,0,0,,Nije tamo.
+Dialogue: 0,0:14:28.62,0:14:30.22,Default,,0,0,0,,Je li to neka vrsta vitamina?
+Dialogue: 0,0:14:30.25,0:14:31.25,Default,,0,0,0,,Mozda
+Dialogue: 0,0:14:32.05,0:14:33.12,Default,,0,0,0,,lijekovi.
+Dialogue: 0,0:14:38.06,0:14:39.29,Default,,0,0,0,,Idemo.
+Dialogue: 0,0:14:44.50,0:14:47.67,Default,,0,0,0,,"... aktivni sastojak dnevnog napitka A.02."
+Dialogue: 0,0:14:49.24,0:14:51.10,Default,,0,0,0,,"Kombinirajte s plavim alkalnim sirupom
+Dialogue: 0,0:14:51.14,0:14:52.27,Default,,0,0,0,,"za suzbijanje iritacije zeluca."
+Dialogue: 0,0:14:52.31,0:14:53.31,Default,,0,0,0,,Plava.
+Dialogue: 0,0:14:54.41,0:14:55.48,Default,,0,0,0,,To je plavo.
+Dialogue: 0,0:14:57.31,0:15:00.15,Default,,0,0,0,,"... efekt se pojacava kada se konzumira s hranom."
+Dialogue: 0,0:15:00.18,0:15:02.38,Default,,0,0,0,,Kakav efekat?
+Dialogue: 0,0:15:02.42,0:15:05.02,Default,,0,0,0,,Mislio sam da je to samo enzim za probavu.
+Dialogue: 0,0:15:08.02,0:15:11.19,Default,,0,0,0,,"... licnost postaje dosadna i poslusna ..."
+Dialogue: 0,0:15:11.22,0:15:14.70,Default,,0,0,0,,"... uklanja seksualnu zelju i senzaciju ..."
+Dialogue: 0,0:15:14.73,0:15:16.43,Default,,0,0,0,,"... smanjeni odgovor na zadovoljstvo ..."
+Dialogue: 0,0:15:16.46,0:15:18.47,Default,,0,0,0,,Smanjen odgovor na zadovoljstvo?
+Dialogue: 0,0:15:20.07,0:15:22.14,Default,,0,0,0,,Želim vece zadovoljstvo.
+Dialogue: 0,0:15:24.74,0:15:26.04,Default,,0,0,0,,Drogiraju nas.
+Dialogue: 0,0:15:31.04,0:15:32.31,Default,,0,0,0,,Tako da nas mogu kontrolirati.
+Dialogue: 0,0:15:33.15,0:15:34.21,Default,,0,0,0,,Umiri nas.
+Dialogue: 0,0:15:35.72,0:15:38.18,Default,,0,0,0,,Ne zele da se reprodukujemo prirodno.
+Dialogue: 0,0:15:38.22,0:15:39.72,Default,,0,0,0,,Ne zele da imamo seksualne odnose.
+Dialogue: 0,0:15:39.75,0:15:43.19,Default,,0,0,0,,Tako da ne osjecamo kakav je to osjecaj.
+Dialogue: 0,0:15:43.22,0:15:45.16,Default,,0,0,0,,I tako da ne prenaseljujemo brod.
+Dialogue: 0,0:15:45.76,0:15:47.06,Default,,0,0,0,,Da bi se sacuvala hrana.
+Dialogue: 0,0:15:48.53,0:15:49.53,Default,,0,0,0,,Nije me briga.
+Dialogue: 0,0:15:50.50,0:15:51.60,Default,,0,0,0,,Ne pijem ga.
+Dialogue: 0,0:16:04.24,0:16:05.48,Default,,0,0,0,,Dakle, Richard te lagao.
+Dialogue: 0,0:16:06.35,0:16:07.68,Default,,0,0,0,,Misija lezi.
+Dialogue: 0,0:16:07.72,0:16:09.38,Default,,0,0,0,,Šta nam jos ne govore?
+Dialogue: 0,0:16:11.69,0:16:14.19,Default,,0,0,0,,Christopher je pronasao skriveni pretinac.
+Dialogue: 0,0:16:14.22,0:16:15.39,Default,,0,0,0,,U brodskim planovima.
+Dialogue: 0,0:16:15.42,0:16:16.72,Default,,0,0,0,,Gdje je?
+Dialogue: 0,0:16:17.86,0:16:19.26,Default,,0,0,0,,U Pod-23.
+Dialogue: 0,0:16:19.29,0:16:20.63,Default,,0,0,0,,Neoznaceno iza zida.
+Dialogue: 0,0:16:22.36,0:16:23.56,Default,,0,0,0,,Šta je unutra?
+Dialogue: 0,0:16:23.60,0:16:25.10,Default,,0,0,0,,Jos ne znam.
+Dialogue: 0,0:16:25.13,0:16:26.43,Default,,0,0,0,,Ne govori Richardu da si nestao.
+Dialogue: 0,0:16:26.47,0:16:28.50,Default,,0,0,0,,Ionako ce ih prisiliti na to.
+Dialogue: 0,0:16:28.54,0:16:31.27,Default,,0,0,0,,Da, mozda. Do tada cemo znati kakav je osjecaj.
+Dialogue: 0,0:16:31.30,0:16:33.44,Default,,0,0,0,,Kakav je osjecaj?
+Dialogue: 0,0:16:33.47,0:16:35.24,Default,,0,0,0,,Da li se nesto promijenilo otkako ste stali?
+Dialogue: 0,0:16:35.28,0:16:37.34,Default,,0,0,0,,- Da, ali ... - Gde mi je zadovoljstvo?
+Dialogue: 0,0:16:45.45,0:16:46.45,Default,,0,0,0,,Evo.
+Dialogue: 0,0:16:48.86,0:16:50.66,Default,,0,0,0,,Au.
+Dialogue: 0,0:16:54.66,0:16:55.76,Default,,0,0,0,,Mali trzaj.
+Dialogue: 0,0:16:55.80,0:16:57.43,Default,,0,0,0,,- Vijak. - Ugriz.
+Dialogue: 0,0:16:57.46,0:16:59.17,Default,,0,0,0,,Znate da je to gubljenje elektricne energije.
+Dialogue: 0,0:17:01.40,0:17:02.47,Default,,0,0,0,,Odlazi.
+Dialogue: 0,0:17:04.37,0:17:05.37,Default,,0,0,0,,Pa ...
+Dialogue: 0,0:17:07.31,0:17:09.48,Default,,0,0,0,,O cemu razmisljate od nase posljednje sesije?
+Dialogue: 0,0:17:11.18,0:17:12.18,Default,,0,0,0,,Nista.
+Dialogue: 0,0:17:13.71,0:17:15.62,Default,,0,0,0,,Hajde, nista?
+Dialogue: 0,0:17:15.65,0:17:18.52,Default,,0,0,0,,Pa, valjda sam se pitala
+Dialogue: 0,0:17:18.55,0:17:19.62,Default,,0,0,0,,zasto nas lazes?
+Dialogue: 0,0:17:20.72,0:17:23.12,Default,,0,0,0,,Šta mislite o cemu sam lagala?
+Dialogue: 0,0:17:23.16,0:17:24.69,Default,,0,0,0,,Pa, saznao sam da ...
+Dialogue: 0,0:17:27.39,0:17:28.39,Default,,0,0,0,,Šta?
+Dialogue: 0,0:17:31.90,0:17:33.40,Default,,0,0,0,,Postoji neoznaceni pretinac.
+Dialogue: 0,0:17:34.64,0:17:36.87,Default,,0,0,0,,Mladji od 23 godine.
+Dialogue: 0,0:17:36.90,0:17:40.74,Default,,0,0,0,,Pa, misija uskracuje odredjene informacije iz razlicitih razloga.
+Dialogue: 0,0:17:40.77,0:17:42.54,Default,,0,0,0,,Znate, cak i od mene.
+Dialogue: 0,0:17:43.74,0:17:45.24,Default,,0,0,0,,Nije bas laz,
+Dialogue: 0,0:17:46.38,0:17:47.55,Default,,0,0,0,,ali shvacam na sta mislite.
+Dialogue: 0,0:17:48.62,0:17:49.62,Default,,0,0,0,,Kako si ga nasao?
+Dialogue: 0,0:17:51.85,0:17:54.39,Default,,0,0,0,,Upravo jesam. Šta je unutra?
+Dialogue: 0,0:17:55.56,0:17:57.36,Default,,0,0,0,,Ne znam.
+Dialogue: 0,0:17:57.39,0:17:59.76,Default,,0,0,0,,Ne znam. To mora biti za trecu generaciju.
+Dialogue: 0,0:17:59.79,0:18:02.16,Default,,0,0,0,,Ali zasto je skriven? Zar nisi znatizeljan?
+Dialogue: 0,0:18:02.20,0:18:03.20,Default,,0,0,0,,Ja sam...
+Dialogue: 0,0:18:04.90,0:18:06.47,Default,,0,0,0,,Vjerovatno je rezervirano za njih.
+Dialogue: 0,0:18:07.67,0:18:08.77,Default,,0,0,0,,To je za vase unuke.
+Dialogue: 0,0:18:10.74,0:18:12.17,Default,,0,0,0,,To je duboka misao.
+Dialogue: 0,0:18:12.21,0:18:13.94,Default,,0,0,0,,Imat ces djecu,
+Dialogue: 0,0:18:13.97,0:18:15.58,Default,,0,0,0,,i imat cete unuke.
+Dialogue: 0,0:18:16.78,0:18:18.14,Default,,0,0,0,,Šta mislite o tome?
+Dialogue: 0,0:18:24.55,0:18:25.82,Default,,0,0,0,,Da, oni su normalna djeca.
+Dialogue: 0,0:18:25.85,0:18:27.86,Default,,0,0,0,,Osjetljivi su i pametni
+Dialogue: 0,0:18:27.89,0:18:30.39,Default,,0,0,0,,sto znaci da znaju kad im ne govorim istinu.
+Dialogue: 0,0:18:30.42,0:18:32.79,Default,,0,0,0,,I to je moja poenta.
+Dialogue: 0,0:18:32.83,0:18:35.90,Default,,0,0,0,,Želim biti iskren s njima u vezi sa svime.
+Dialogue: 0,0:18:37.83,0:18:41.94,Default,,0,0,0,,U protivnom ce izgubiti vjeru u mene.
+Dialogue: 0,0:18:44.54,0:18:46.64,Default,,0,0,0,,Pa ...
+Dialogue: 0,0:18:46.67,0:18:49.74,Default,,0,0,0,,Trebat cu vam brzi odgovor o ovome.
+Dialogue: 0,0:18:49.78,0:18:50.94,Default,,0,0,0,,To je sve za sada.
+Dialogue: 0,0:20:04.89,0:20:05.89,Default,,0,0,0,,Sela?
+Dialogue: 0,0:20:07.76,0:20:08.76,Default,,0,0,0,,Šta?
+Dialogue: 0,0:20:10.66,0:20:11.69,Default,,0,0,0,,Izgledas drugacije.
+Dialogue: 0,0:20:12.66,0:20:13.83,Default,,0,0,0,,Ja sam isti.
+Dialogue: 0,0:20:13.86,0:20:15.90,Default,,0,0,0,,Ne, nisi. Nisam ni ja.
+Dialogue: 0,0:20:17.33,0:20:19.37,Default,,0,0,0,,O cemu pricas?
+Dialogue: 0,0:20:19.40,0:20:20.77,Default,,0,0,0,,Ne znam. Promijenili ste se.
+Dialogue: 0,0:20:20.80,0:20:22.27,Default,,0,0,0,,Sve o tebi.
+Dialogue: 0,0:20:22.90,0:20:24.47,Default,,0,0,0,,Da, odrasla sam.
+Dialogue: 0,0:20:26.54,0:20:28.68,Default,,0,0,0,,Upravo o tome zelim da razgovaram s vama.
+Dialogue: 0,0:20:28.71,0:20:30.58,Default,,0,0,0,,Jeste, ali ne osjecate ono sto ja osjecam.
+Dialogue: 0,0:20:30.61,0:20:31.75,Default,,0,0,0,,Nema hvatanja, Zac.
+Dialogue: 0,0:20:34.65,0:20:36.48,Default,,0,0,0,,Nisam grabio.
+Dialogue: 0,0:20:36.52,0:20:37.72,Default,,0,0,0,,Lako s rukama. Znate pravila.
+Dialogue: 0,0:21:06.71,0:21:08.31,Default,,0,0,0,,Da!
+Dialogue: 0,0:21:15.96,0:21:17.76,Default,,0,0,0,,Da!
+Dialogue: 0,0:22:00.10,0:22:02.17,Default,,0,0,0,,Hajde.
+Dialogue: 0,0:22:02.20,0:22:03.74,Default,,0,0,0,,Mrzim te zvukove.
+Dialogue: 0,0:22:34.64,0:22:35.94,Default,,0,0,0,,Nesto?
+Dialogue: 0,0:22:35.97,0:22:37.57,Default,,0,0,0,,Ne.
+Dialogue: 0,0:22:37.60,0:22:39.57,Default,,0,0,0,,Pa sta uzrokuje zvukove?
+Dialogue: 0,0:22:39.61,0:22:41.17,Default,,0,0,0,,Richard kaze da je zahladjenje
+Dialogue: 0,0:22:41.21,0:22:42.81,Default,,0,0,0,,i ugovaranje broda kada ga iskljucimo.
+Dialogue: 0,0:22:42.84,0:22:44.61,Default,,0,0,0,,Ne mislim da je temperaturna razlika
+Dialogue: 0,0:22:44.65,0:22:46.75,Default,,0,0,0,,dovoljno je utjecati na strukturu na taj nacin.
+Dialogue: 0,0:22:46.78,0:22:48.51,Default,,0,0,0,,Plus, Richard je lazov.
+Dialogue: 0,0:22:50.65,0:22:53.52,Default,,0,0,0,,Pa sta je to?
+Dialogue: 0,0:22:53.55,0:22:55.92,Default,,0,0,0,,Mislite da je to nesto spolja, zar ne?
+Dialogue: 0,0:22:55.96,0:22:58.56,Default,,0,0,0,,Ako na planeti postoji zivot, zasto ne bi i ovdje?
+Dialogue: 0,0:22:59.83,0:23:01.63,Default,,0,0,0,,Šta jos moze objasniti te zvukove?
+Dialogue: 0,0:23:24.69,0:23:26.05,Default,,0,0,0,,Šta je?
+Dialogue: 0,0:23:26.09,0:23:28.19,Default,,0,0,0,,Sage.
+Dialogue: 0,0:23:28.22,0:23:30.49,Default,,0,0,0,,Biljka koja raste u toploj klimi.
+Dialogue: 0,0:23:37.86,0:23:40.70,Default,,0,0,0,,Iglice bora.
+Dialogue: 0,0:23:42.24,0:23:43.84,Default,,0,0,0,,- Divno je. - Hmm.
+Dialogue: 0,0:24:29.58,0:24:30.92,Default,,0,0,0,,Vidis li to?
+Dialogue: 0,0:24:32.92,0:24:35.06,Default,,0,0,0,,Moze je dodirnuti. Ali ne mogu.
+Dialogue: 0,0:24:50.00,0:24:52.17,Default,,0,0,0,,Izgubili smo kontakt sa Zemljom
+Dialogue: 0,0:24:52.21,0:24:56.01,Default,,0,0,0,,jer je preko noci doslo do kvara na LCT predajniku.
+Dialogue: 0,0:24:56.04,0:24:57.58,Default,,0,0,0,,Morat cu ici van kako bih to popravio.
+Dialogue: 0,0:24:57.61,0:24:59.05,Default,,0,0,0,,Zac ce poci sa mnom.
+Dialogue: 0,0:24:59.08,0:25:01.72,Default,,0,0,0,,A vi ostali znate svoje uloge.
+Dialogue: 0,0:25:06.19,0:25:07.62,Default,,0,0,0,,Upravo ovdje.
+Dialogue: 0,0:25:09.69,0:25:11.63,Default,,0,0,0,,- Izvoli. - Hvala.
+Dialogue: 0,0:25:28.28,0:25:31.95,Default,,0,0,0,,Ovaj vam senzor ide na zglob i pricvrscuje se ovdje,
+Dialogue: 0,0:25:31.98,0:25:33.35,Default,,0,0,0,,ali je zeznuto jer se moze osloboditi,
+Dialogue: 0,0:25:33.38,0:25:34.58,Default,,0,0,0,,pa samo pripazite ...
+Dialogue: 0,0:25:37.95,0:25:39.39,Default,,0,0,0,,Obavezno povucite manzetnu
+Dialogue: 0,0:25:39.42,0:25:41.15,Default,,0,0,0,,unutarnji rukav tako da ...
+Dialogue: 0,0:25:59.17,0:26:00.84,Default,,0,0,0,,Hej! Hej! Hej!
+Dialogue: 0,0:26:02.34,0:26:04.14,Default,,0,0,0,,Šta se ovde desava? Zac, sta to radis?
+Dialogue: 0,0:26:06.28,0:26:08.38,Default,,0,0,0,,Izgubit cete obroke hrane ako mi ne kazete sto se dogadja.
+Dialogue: 0,0:26:08.42,0:26:09.72,Default,,0,0,0,,Jesi li dobro?
+Dialogue: 0,0:26:09.75,0:26:10.92,Default,,0,0,0,,Dobro sam.
+Dialogue: 0,0:26:12.79,0:26:13.79,Default,,0,0,0,,Zac!
+Dialogue: 0,0:26:23.20,0:26:24.20,Default,,0,0,0,,Zac.
+Dialogue: 0,0:26:32.24,0:26:33.24,Default,,0,0,0,,Zac.
+Dialogue: 0,0:26:35.34,0:26:37.18,Default,,0,0,0,,Phoebe, jesi li vidjela Zaca?
+Dialogue: 0,0:26:37.21,0:26:39.71,Default,,0,0,0,,Ne. Ali cuo sam sta je uradio.
+Dialogue: 0,0:26:39.75,0:26:41.25,Default,,0,0,0,,Da li je vec radio nesto slicno?
+Dialogue: 0,0:26:41.28,0:26:43.85,Default,,0,0,0,,Ne znam, ali prestao je uzimati plavo.
+Dialogue: 0,0:26:46.32,0:26:48.09,Default,,0,0,0,,Jesi li siguran?
+Dialogue: 0,0:26:48.12,0:26:49.89,Default,,0,0,0,,Vidio sam kako ga izlijeva.
+Dialogue: 0,0:26:53.09,0:26:54.09,Default,,0,0,0,,Christopher.
+Dialogue: 0,0:26:55.90,0:26:57.03,Default,,0,0,0,,Jesi li vidio Zaca?
+Dialogue: 0,0:26:58.90,0:27:00.30,Default,,0,0,0,,Čuli ste sta je uradio?
+Dialogue: 0,0:27:02.74,0:27:04.30,Default,,0,0,0,,Oh, ti mislis da je to u redu?
+Dialogue: 0,0:27:04.34,0:27:05.74,Default,,0,0,0,,Ne.
+Dialogue: 0,0:27:05.77,0:27:07.97,Default,,0,0,0,,Dobro, drago mi je sto to cujem.
+Dialogue: 0,0:27:08.01,0:27:10.48,Default,,0,0,0,,Ne uzima plavo. Da li si?
+Dialogue: 0,0:27:10.51,0:27:12.38,Default,,0,0,0,,Zasto bih?
+Dialogue: 0,0:27:12.41,0:27:15.95,Default,,0,0,0,,To je droga. Drogiras nas.
+Dialogue: 0,0:27:15.98,0:27:18.12,Default,,0,0,0,,Misija je donijela odluku o davanju lijekova
+Dialogue: 0,0:27:19.95,0:27:22.26,Default,,0,0,0,,za pomoc u kontroli impulsa.
+Dialogue: 0,0:27:23.92,0:27:25.76,Default,,0,0,0,,Kako bi se sprijecilo da se dogadjaju ovakve stvari.
+Dialogue: 0,0:27:27.36,0:27:30.13,Default,,0,0,0,,To je jedini nacin da se nosite s ovakvim zivotom.
+Dialogue: 0,0:27:30.16,0:27:31.83,Default,,0,0,0,,Nismo trazili da budemo ovdje.
+Dialogue: 0,0:27:31.87,0:27:33.70,Default,,0,0,0,,Niko ne bira u sta ce se roditi.
+Dialogue: 0,0:27:36.40,0:27:38.07,Default,,0,0,0,,Ali moras naci nacin da zivis svoj zivot.
+Dialogue: 0,0:27:38.10,0:27:39.47,Default,,0,0,0,,Moras
+Dialogue: 0,0:27:39.51,0:27:41.68,Default,,0,0,0,,odlucite kakva osoba zelite biti.
+Dialogue: 0,0:27:42.78,0:27:44.08,Default,,0,0,0,,Moras pokusati biti dobar.
+Dialogue: 0,0:27:44.11,0:27:46.05,Default,,0,0,0,,Zasto?
+Dialogue: 0,0:27:46.08,0:27:47.15,Default,,0,0,0,,Na kraju cemo umrijeti,
+Dialogue: 0,0:27:47.18,0:27:49.52,Default,,0,0,0,,pa zasto ne mozemo raditi ono sto zelimo?
+Dialogue: 0,0:27:49.55,0:27:51.35,Default,,0,0,0,,Koja je razlika da li smo dobri ili ne?
+Dialogue: 0,0:27:51.38,0:27:53.12,Default,,0,0,0,,- Velika je razlika. - Pa, ne vidim ga.
+Dialogue: 0,0:27:53.15,0:27:54.45,Default,,0,0,0,,Radimo li jos uvijek popravak?
+Dialogue: 0,0:27:56.16,0:27:57.16,Default,,0,0,0,,-Da.
+Dialogue: 0,0:27:58.99,0:27:59.99,Default,,0,0,0,,Hajde.
+Dialogue: 0,0:28:07.37,0:28:08.77,Default,,0,0,0,,U redu, obuci ovo.
+Dialogue: 0,0:28:08.80,0:28:11.37,Default,,0,0,0,,- Zasto? - Ides sa mnom.
+Dialogue: 0,0:28:11.40,0:28:13.17,Default,,0,0,0,,Ne zelim ici.
+Dialogue: 0,0:28:15.94,0:28:17.84,Default,,0,0,0,,Slusaj, shvatam da si ljut,
+Dialogue: 0,0:28:17.88,0:28:19.41,Default,,0,0,0,,ali treba mi tvoja pomoc oko ovoga.
+Dialogue: 0,0:28:20.95,0:28:22.42,Default,,0,0,0,,I sto prije to popravimo,
+Dialogue: 0,0:28:22.45,0:28:23.48,Default,,0,0,0,,sto prije mozete iznijeti svoje prigovore
+Dialogue: 0,0:28:23.52,0:28:24.82,Default,,0,0,0,,za kontrolu misije.
+Dialogue: 0,0:28:26.45,0:28:27.89,Default,,0,0,0,,Podrzacu vas.
+Dialogue: 0,0:28:53.48,0:28:55.45,Default,,0,0,0,,U toku je smanjenje pritiska.
+Dialogue: 0,0:28:57.08,0:28:58.32,Default,,0,0,0,,90%.
+Dialogue: 0,0:28:59.95,0:29:01.29,Default,,0,0,0,,80%.
+Dialogue: 0,0:29:02.96,0:29:04.22,Default,,0,0,0,,Kai, jesi li spreman za sistemsku sobu?
+Dialogue: 0,0:29:04.26,0:29:05.33,Default,,0,0,0,,Da.
+Dialogue: 0,0:29:06.26,0:29:08.56,Default,,0,0,0,,Komplet kontrolne sobe.
+Dialogue: 0,0:29:08.60,0:29:10.53,Default,,0,0,0,,Med Bay na 1 s vitalnim znakovima.
+Dialogue: 0,0:29:14.57,0:29:17.20,Default,,0,0,0,,Otpustanje tlaka zavrseno.
+Dialogue: 0,0:29:17.24,0:29:18.34,Default,,0,0,0,,Otvor za otvaranje.
+Dialogue: 0,0:29:22.24,0:29:24.01,Default,,0,0,0,,Ko je sa njim?
+Dialogue: 0,0:29:24.04,0:29:25.31,Default,,0,0,0,,Christopher.
+Dialogue: 0,0:31:15.02,0:31:17.06,Default,,0,0,0,,Nalazimo se na razvodnoj kutiji 1.
+Dialogue: 0,0:31:17.09,0:31:19.53,Default,,0,0,0,,Pocetak popravke.
+Dialogue: 0,0:31:19.56,0:31:21.70,Default,,0,0,0,,Iskljucite napajanje LCT 1 predajnika.
+Dialogue: 0,0:31:22.76,0:31:25.37,Default,,0,0,0,,Kopirajte to. LCT 1 se gasi.
+Dialogue: 0,0:31:43.28,0:31:45.42,Default,,0,0,0,,Otvorna razvodna kutija 1.
+Dialogue: 0,0:31:48.05,0:31:49.36,Default,,0,0,0,,Kopirajte to.
+Dialogue: 0,0:31:55.03,0:31:57.03,Default,,0,0,0,,Popravak LCT 1 zavrsen.
+Dialogue: 0,0:31:58.70,0:32:00.27,Default,,0,0,0,,Odlazak na LCT 2.
+Dialogue: 0,0:32:02.40,0:32:03.40,Default,,0,0,0,,Kopirajte to.
+Dialogue: 0,0:32:04.77,0:32:06.21,Default,,0,0,0,,LCT 2 ugasen.
+Dialogue: 0,0:32:20.59,0:32:22.56,Default,,0,0,0,,Eto ga.
+Dialogue: 0,0:32:22.59,0:32:24.39,Default,,0,0,0,,To je samo brod.
+Dialogue: 0,0:32:24.42,0:32:25.73,Default,,0,0,0,,Richard nam je rekao sta je to.
+Dialogue: 0,0:32:50.35,0:32:51.59,Default,,0,0,0,,Vidis li nesto?
+Dialogue: 0,0:32:54.42,0:32:55.76,Default,,0,0,0,,Jer tamo nema nicega.
+Dialogue: 0,0:33:08.54,0:33:09.64,Default,,0,0,0,,Richard!
+Dialogue: 0,0:33:16.48,0:33:18.18,Default,,0,0,0,,Richard!
+Dialogue: 0,0:33:18.21,0:33:19.85,Default,,0,0,0,,Richard! Čujes li me, Richard?
+Dialogue: 0,0:33:19.88,0:33:21.62,Default,,0,0,0,,- Šta se desilo? - Ne znam.
+Dialogue: 0,0:33:21.65,0:33:23.15,Default,,0,0,0,,Prelazak na hitno napajanje.
+Dialogue: 0,0:33:23.18,0:33:25.15,Default,,0,0,0,,Provjeri prekidace.
+Dialogue: 0,0:33:25.18,0:33:26.19,Default,,0,0,0,,Imamo pozar u sistemskoj sobi.
+Dialogue: 0,0:33:56.88,0:33:58.55,Default,,0,0,0,,Greske u navigaciji.
+Dialogue: 0,0:33:58.59,0:33:59.55,Default,,0,0,0,,Ne znam. Pokusavamo provjeriti.
+Dialogue: 0,0:33:59.59,0:34:00.75,Default,,0,0,0,,Negativno. Nema efekta.
+Dialogue: 0,0:34:00.79,0:34:03.29,Default,,0,0,0,,Komunikacije.
+Dialogue: 0,0:34:03.32,0:34:05.49,Default,,0,0,0,,Čitav sistem je propao. Ne prenosimo ni ne primamo.
+Dialogue: 0,0:34:11.77,0:34:14.30,Default,,0,0,0,,Ne, zadrzi kiseonik. Idemo opet.
+Dialogue: 0,0:34:25.95,0:34:27.18,Default,,0,0,0,,Ne radi.
+Dialogue: 0,0:34:32.29,0:34:33.65,Default,,0,0,0,,Proglasavate li ga mrtvim?
+Dialogue: 0,0:34:36.26,0:34:37.89,Default,,0,0,0,,Kaze da bi glavni ljekar trebao primijetiti
+Dialogue: 0,0:34:37.93,0:34:39.13,Default,,0,0,0,,vrijeme smrti.
+Dialogue: 0,0:34:59.41,0:35:00.41,Default,,0,0,0,,U redu.
+Dialogue: 0,0:35:01.28,0:35:02.78,Default,,0,0,0,,14:35 vrijeme broda.
+Dialogue: 0,0:35:17.56,0:35:19.17,Default,,0,0,0,,Jednostavno ne razumijem.
+Dialogue: 0,0:35:20.67,0:35:21.90,Default,,0,0,0,,Šta se zapravo dogodilo?
+Dialogue: 0,0:35:21.94,0:35:23.27,Default,,0,0,0,,Nisi vidio?
+Dialogue: 0,0:35:23.30,0:35:24.81,Default,,0,0,0,,Suocio sam se s drugim putem.
+Dialogue: 0,0:35:24.84,0:35:26.34,Default,,0,0,0,,Čuo se taj zvuk.
+Dialogue: 0,0:35:28.34,0:35:29.64,Default,,0,0,0,,Škripanje.
+Dialogue: 0,0:35:30.88,0:35:32.75,Default,,0,0,0,,Neposredno prije nego sto se to dogodilo.
+Dialogue: 0,0:35:32.78,0:35:34.28,Default,,0,0,0,,Je li neko gledao monitor?
+Dialogue: 0,0:35:34.31,0:35:36.48,Default,,0,0,0,,Da. Nismo nista vidjeli.
+Dialogue: 0,0:35:36.52,0:35:37.52,Default,,0,0,0,,Ja sam uradio.
+Dialogue: 0,0:35:39.35,0:35:40.59,Default,,0,0,0,,I?
+Dialogue: 0,0:35:40.62,0:35:42.49,Default,,0,0,0,,Sta si vidio
+Dialogue: 0,0:35:42.52,0:35:43.72,Default,,0,0,0,,Izgledalo je kao ...
+Dialogue: 0,0:35:45.26,0:35:47.76,Default,,0,0,0,,Poput sile koja uskace u njega.
+Dialogue: 0,0:35:47.80,0:35:50.63,Default,,0,0,0,,Kako mislis? Poput meteoroida?
+Dialogue: 0,0:35:50.66,0:35:51.93,Default,,0,0,0,,Misli nesto drugo.
+Dialogue: 0,0:35:53.50,0:35:54.70,Default,,0,0,0,,Nesto vanzemaljsko.
+Dialogue: 0,0:35:54.74,0:35:56.30,Default,,0,0,0,,Šta?
+Dialogue: 0,0:36:00.47,0:36:02.38,Default,,0,0,0,,Uredu je.
+Dialogue: 0,0:36:02.41,0:36:04.28,Default,,0,0,0,,Sve ce biti u redu.
+Dialogue: 0,0:36:04.31,0:36:05.58,Default,,0,0,0,,Šta ce biti s nama?
+Dialogue: 0,0:36:07.65,0:36:08.98,Default,,0,0,0,,Bicemo dobro.
+Dialogue: 0,0:36:09.02,0:36:11.59,Default,,0,0,0,,Šta god da je bilo, bilo je spolja.
+Dialogue: 0,0:36:11.62,0:36:13.39,Default,,0,0,0,,Na brodu smo na sigurnom.
+Dialogue: 0,0:36:13.42,0:36:14.86,Default,,0,0,0,,Ali bez Richarda ...
+Dialogue: 0,0:36:14.89,0:36:17.26,Default,,0,0,0,,Ionako cemo u nekom trenutku biti svoji.
+Dialogue: 0,0:36:19.59,0:36:20.89,Default,,0,0,0,,To se desilo rano.
+Dialogue: 0,0:36:23.73,0:36:25.43,Default,,0,0,0,,Ako zadrzimo zajedno, bit cemo u redu.
+Dialogue: 0,0:36:34.51,0:36:36.38,Default,,0,0,0,,Ponovno pokretanje sistema.
+Dialogue: 0,0:36:44.32,0:36:45.85,Default,,0,0,0,,Jeste li dobili sliku?
+Dialogue: 0,0:36:45.89,0:36:48.56,Default,,0,0,0,,Sve zabiljezeno je nestalo.
+Dialogue: 0,0:36:48.59,0:36:50.86,Default,,0,0,0,,Dakle, ne mozemo vidjeti sta se dogodilo?
+Dialogue: 0,0:36:50.89,0:36:52.36,Default,,0,0,0,,Pozar u sistemskoj sobi
+Dialogue: 0,0:36:52.39,0:36:53.59,Default,,0,0,0,,unistio nadzornu arhivu.
+Dialogue: 0,0:36:58.83,0:37:01.27,Default,,0,0,0,,Program kaze da moramo odabrati novog sefa.
+Dialogue: 0,0:37:03.34,0:37:04.40,Default,,0,0,0,,Ja cu biti glavni oficir.
+Dialogue: 0,0:37:05.51,0:37:07.51,Default,,0,0,0,,Sada sam glavni inzenjer,
+Dialogue: 0,0:37:07.54,0:37:08.91,Default,,0,0,0,,ima smisla da budem glavni.
+Dialogue: 0,0:37:10.08,0:37:12.38,Default,,0,0,0,,Pa, sta je sa Selom?
+Dialogue: 0,0:37:12.41,0:37:15.05,Default,,0,0,0,,Ona je glavni medicinski sluzbenik.
+Dialogue: 0,0:37:15.08,0:37:17.08,Default,,0,0,0,,Ne zelim biti sef.
+Dialogue: 0,0:37:17.12,0:37:18.92,Default,,0,0,0,,Kaze da svi dobiju glas.
+Dialogue: 0,0:37:20.39,0:37:22.06,Default,,0,0,0,,Imamo izbore.
+Dialogue: 0,0:37:33.07,0:37:35.40,Default,,0,0,0,,A novi sef sluzbe je ...
+Dialogue: 0,0:37:37.00,0:37:38.30,Default,,0,0,0,,Christopher.
+Dialogue: 0,0:37:51.15,0:37:53.69,Default,,0,0,0,,- Cestitam. - Hvala ti.
+Dialogue: 0,0:37:53.72,0:37:55.69,Default,,0,0,0,,Prvo sto moramo uciniti je sanirati stetu.
+Dialogue: 0,0:37:56.46,0:37:58.66,Default,,0,0,0,,LCS je pao,
+Dialogue: 0,0:37:58.69,0:38:00.53,Default,,0,0,0,,tako da necemo cuti Zemlju dok to ne popravimo.
+Dialogue: 0,0:38:01.90,0:38:04.00,Default,,0,0,0,,Sad smo sami,
+Dialogue: 0,0:38:04.03,0:38:05.83,Default,,0,0,0,,ali mozemo se izvuci iz ovoga.
+Dialogue: 0,0:38:11.07,0:38:12.67,Default,,0,0,0,,Trebat ce nam cijela posada
+Dialogue: 0,0:38:12.71,0:38:15.68,Default,,0,0,0,,u ostecenom podrucju radeci na popravci.
+Dialogue: 0,0:38:15.71,0:38:18.68,Default,,0,0,0,,Vatra je izbacila vecinu sistemske prostorije.
+Dialogue: 0,0:38:18.71,0:38:21.05,Default,,0,0,0,,Prvo cemo se osvrnuti na elektricnu energiju i komunikacije.
+Dialogue: 0,0:38:21.08,0:38:23.35,Default,,0,0,0,,Izvucite svu spaljenu opremu i zamenite je.
+Dialogue: 0,0:38:25.72,0:38:27.92,Default,,0,0,0,,Tada cemo raditi na nadzornom sistemu.
+Dialogue: 0,0:38:27.96,0:38:29.72,Default,,0,0,0,,Pokusajte to pokrenuti
+Dialogue: 0,0:38:29.76,0:38:30.92,Default,,0,0,0,,tako da mozemo vidjeti sta se stvarno dogodilo s Richardom.
+Dialogue: 0,0:38:36.83,0:38:37.83,Default,,0,0,0,,U redu.
+Dialogue: 0,0:38:40.10,0:38:42.77,Default,,0,0,0,,Edward je rekao da je vatra unistila sav nadzor.
+Dialogue: 0,0:38:42.80,0:38:43.94,Default,,0,0,0,,-Da.
+Dialogue: 0,0:38:43.97,0:38:46.01,Default,,0,0,0,,Veze su izgorjele.
+Dialogue: 0,0:38:46.04,0:38:47.84,Default,,0,0,0,,Ali mozda su pogoni jos uvijek netaknuti.
+Dialogue: 0,0:39:43.76,0:39:44.77,Default,,0,0,0,,Hej!
+Dialogue: 0,0:39:46.57,0:39:47.77,Default,,0,0,0,,Jesi li dobro?
+Dialogue: 0,0:39:47.80,0:39:48.84,Default,,0,0,0,,-Da.
+Dialogue: 0,0:39:50.27,0:39:51.91,Default,,0,0,0,,Šta radis ovdje?
+Dialogue: 0,0:39:51.94,0:39:54.21,Default,,0,0,0,,Trebao bih unistiti njegovu licnu arhivu.
+Dialogue: 0,0:39:56.21,0:39:57.51,Default,,0,0,0,,Zasto?
+Dialogue: 0,0:39:57.54,0:39:59.51,Default,,0,0,0,,To je u programu.
+Dialogue: 0,0:39:59.55,0:40:00.91,Default,,0,0,0,,Ne zele da to vidimo.
+Dialogue: 0,0:40:02.68,0:40:03.68,Default,,0,0,0,,Moram li to uciniti?
+Dialogue: 0,0:40:04.92,0:40:06.59,Default,,0,0,0,,Da. Naravno.
+Dialogue: 0,0:40:10.72,0:40:12.13,Default,,0,0,0,,To je bio Richard kad je imao deset godina.
+Dialogue: 0,0:40:12.96,0:40:14.23,Default,,0,0,0,,To je njegova sestra.
+Dialogue: 0,0:40:15.13,0:40:16.76,Default,,0,0,0,,To su njegovi roditelji.
+Dialogue: 0,0:40:16.80,0:40:17.83,Default,,0,0,0,,Njegovi roditelji...
+Dialogue: 0,0:40:18.97,0:40:20.57,Default,,0,0,0,,Imamo samo genetske donore.
+Dialogue: 0,0:40:20.60,0:40:21.60,Default,,0,0,0,,To je isto.
+Dialogue: 0,0:40:22.77,0:40:23.97,Default,,0,0,0,,Je li?
+Dialogue: 0,0:40:24.00,0:40:25.61,Default,,0,0,0,,Od njih i dalje dobivamo svoju narav.
+Dialogue: 0,0:40:27.21,0:40:28.91,Default,,0,0,0,,Zasto ti je sve ovo pokazao?
+Dialogue: 0,0:40:30.98,0:40:32.58,Default,,0,0,0,,Htio je s nekim da razgovara.
+Dialogue: 0,0:40:34.72,0:40:35.88,Default,,0,0,0,,Šta jos?
+Dialogue: 0,0:40:35.92,0:40:37.08,Default,,0,0,0,,Kako mislis?
+Dialogue: 0,0:40:37.12,0:40:38.19,Default,,0,0,0,,Vidjeli smo...
+Dialogue: 0,0:40:38.22,0:40:40.25,Default,,0,0,0,,Vidjeli smo ga kako te dodiruje.
+Dialogue: 0,0:40:40.29,0:40:41.72,Default,,0,0,0,,A mi smo mislili da ti i Richard ...
+Dialogue: 0,0:40:41.76,0:40:42.92,Default,,0,0,0,,Nisam nista radio s Richardom.
+Dialogue: 0,0:40:43.96,0:40:45.09,Default,,0,0,0,,Bili smo samo prijatelji.
+Dialogue: 0,0:40:46.79,0:40:50.10,Default,,0,0,0,,Pokazao mi je svoje stvari. Pricao bi mi o svom zivotu.
+Dialogue: 0,0:40:51.67,0:40:52.67,Default,,0,0,0,,Ali zasto?
+Dialogue: 0,0:40:54.03,0:40:55.04,Default,,0,0,0,,Osjecao je
+Dialogue: 0,0:40:56.07,0:40:57.07,Default,,0,0,0,,sam.
+Dialogue: 0,0:41:01.14,0:41:03.31,Default,,0,0,0,,Dan 1,240.
+Dialogue: 0,0:41:03.34,0:41:04.91,Default,,0,0,0,,Necu moci nastaviti s brojanjem ...
+Dialogue: 0,0:41:06.65,0:41:09.75,Default,,0,0,0,,Tesko je objasniti. S jedne strane, ja ...
+Dialogue: 0,0:41:09.78,0:41:11.89,Default,,0,0,0,,Nisam se osjecala kao da imam nekoga kod kuce.
+Dialogue: 0,0:41:12.85,0:41:14.76,Default,,0,0,0,,Djeca
+Dialogue: 0,0:41:14.79,0:41:17.96,Default,,0,0,0,,cinilo se kao moja jedina veza, pa ...
+Dialogue: 0,0:41:17.99,0:41:19.83,Default,,0,0,0,,Nisam to zelio izgubiti.
+Dialogue: 0,0:41:19.86,0:41:21.96,Default,,0,0,0,,A onda, s druge strane,
+Dialogue: 0,0:41:22.00,0:41:24.16,Default,,0,0,0,,Vjerujem da je to plemenita misija,
+Dialogue: 0,0:41:24.20,0:41:26.97,Default,,0,0,0,,u velikoj tradiciji istrazivanja. Ti znas...
+Dialogue: 0,0:41:27.00,0:41:28.94,Default,,0,0,0,,Šta je tamo? Zasto smo ovde?
+Dialogue: 0,0:41:30.94,0:41:32.01,Default,,0,0,0,,Gdje idemo?
+Dialogue: 0,0:41:34.14,0:41:36.24,Default,,0,0,0,,Necu vidjeti odgovor,
+Dialogue: 0,0:41:36.28,0:41:38.61,Default,,0,0,0,,ali mozda nas mogu pribliziti malo blize tome.
+Dialogue: 0,0:41:40.15,0:41:44.65,Default,,0,0,0,,Ali mislim da je pravi razlog zasto sam dosao,
+Dialogue: 0,0:41:44.68,0:41:46.12,Default,,0,0,0,,Htio sam se uvjeriti da su dobro.
+Dialogue: 0,0:41:49.76,0:41:50.86,Default,,0,0,0,,I zelim ih zastititi.
+Dialogue: 0,0:41:56.03,0:41:57.26,Default,,0,0,0,,Zastiti nas od cega?
+Dialogue: 0,0:42:38.34,0:42:39.34,Default,,0,0,0,,Sve u redu?
+Dialogue: 0,0:42:40.24,0:42:41.41,Default,,0,0,0,,Da.
+Dialogue: 0,0:42:41.44,0:42:43.74,Default,,0,0,0,,Kako ide sa nadzorom?
+Dialogue: 0,0:42:43.78,0:42:44.81,Default,,0,0,0,,Nisam jos siguran.
+Dialogue: 0,0:42:46.85,0:42:47.95,Default,,0,0,0,,Gdje su svi?
+Dialogue: 0,0:43:01.73,0:43:03.23,Default,,0,0,0,,Hej, sta se desava?
+Dialogue: 0,0:43:04.70,0:43:06.20,Default,,0,0,0,,Zasto nisu svi na svom poslu?
+Dialogue: 0,0:43:07.23,0:43:08.37,Default,,0,0,0,,Moramo sanirati stetu.
+Dialogue: 0,0:43:08.40,0:43:09.74,Default,,0,0,0,,Moramo osigurati brod.
+Dialogue: 0,0:43:10.84,0:43:12.41,Default,,0,0,0,,Šta radis ovdje?
+Dialogue: 0,0:43:12.44,0:43:14.34,Default,,0,0,0,,Malo hitnog slucaja.
+Dialogue: 0,0:43:14.37,0:43:17.31,Default,,0,0,0,,Taj kratki spoj iskljucio je napajanje hladnjaka.
+Dialogue: 0,0:43:17.34,0:43:18.91,Default,,0,0,0,,Radimo sve sto mozemo
+Dialogue: 0,0:43:18.95,0:43:20.28,Default,,0,0,0,,da ih vratimo prije nego izgubimo hranu.
+Dialogue: 0,0:43:20.31,0:43:21.68,Default,,0,0,0,,Oh
+Dialogue: 0,0:43:21.72,0:43:22.75,Default,,0,0,0,,Neko vam je trebao reci.
+Dialogue: 0,0:43:24.89,0:43:27.12,Default,,0,0,0,,- Mozes li to popraviti? - Da.
+Dialogue: 0,0:43:27.15,0:43:28.19,Default,,0,0,0,,Ali postoji hrpa hrane koju moramo jesti
+Dialogue: 0,0:43:28.22,0:43:30.09,Default,,0,0,0,,prije nego sto se pokvari i ...
+Dialogue: 0,0:43:32.36,0:43:34.09,Default,,0,0,0,,Mislio sam da bismo mogli napraviti zabavu.
+Dialogue: 0,0:43:34.13,0:43:35.20,Default,,0,0,0,,Gozba.
+Dialogue: 0,0:43:37.40,0:43:39.17,Default,,0,0,0,,Zasto?
+Dialogue: 0,0:43:39.20,0:43:41.17,Default,,0,0,0,,Da proslavimo naseg novog sefa.
+Dialogue: 0,0:44:02.79,0:44:04.96,Default,,0,0,0,,Ne pij plavo. Ne pij ga.
+Dialogue: 0,0:44:06.09,0:44:07.43,Default,,0,0,0,,Zasto ne?
+Dialogue: 0,0:44:07.46,0:44:09.06,Default,,0,0,0,,Zac kaze da ne bismo trebali.
+Dialogue: 0,0:44:09.10,0:44:10.43,Default,,0,0,0,,To je lijek koji nas kontrolira.
+Dialogue: 0,0:44:25.98,0:44:27.25,Default,,0,0,0,,- Richard. - Da.
+Dialogue: 0,0:46:25.47,0:46:26.47,Default,,0,0,0,,Kai!
+Dialogue: 0,0:47:19.09,0:47:20.09,Default,,0,0,0,,Šta radis?
+Dialogue: 0,0:47:22.32,0:47:23.62,Default,,0,0,0,,Gubi se odavde.
+Dialogue: 0,0:47:30.00,0:47:31.36,Default,,0,0,0,,Svi idite!
+Dialogue: 0,0:47:45.38,0:47:46.38,Default,,0,0,0,,Izaci.
+Dialogue: 0,0:48:02.26,0:48:03.43,Default,,0,0,0,,Samo se sjeti,
+Dialogue: 0,0:48:04.77,0:48:06.50,Default,,0,0,0,,Richard nije ovdje da te zastiti.
+Dialogue: 0,0:48:06.53,0:48:08.17,Default,,0,0,0,,Ne treba mi da me zastiti.
+Dialogue: 0,0:48:15.74,0:48:17.14,Default,,0,0,0,,Je li dobro?
+Dialogue: 0,0:48:18.61,0:48:20.28,Default,,0,0,0,,Ne zeli da je dodirnem.
+Dialogue: 0,0:49:29.48,0:49:30.48,Default,,0,0,0,,Sela?
+Dialogue: 0,0:49:32.15,0:49:33.39,Default,,0,0,0,,Jesi li unutra?
+Dialogue: 0,0:49:33.42,0:49:34.82,Default,,0,0,0,,Trazite Sela?
+Dialogue: 0,0:49:34.86,0:49:35.72,Default,,0,0,0,,Ona je u Med Bayu. Upravo sam je vidio.
+Dialogue: 0,0:49:43.80,0:49:44.80,Default,,0,0,0,,Zdravo.
+Dialogue: 0,0:49:48.77,0:49:50.24,Default,,0,0,0,,Sve je uredu?
+Dialogue: 0,0:49:51.67,0:49:53.51,Default,,0,0,0,,-Da.
+Dialogue: 0,0:49:54.34,0:49:55.34,Default,,0,0,0,,Sela?
+Dialogue: 0,0:50:01.18,0:50:02.18,Default,,0,0,0,,Stani.
+Dialogue: 0,0:50:03.75,0:50:04.75,Default,,0,0,0,,Šta radis?
+Dialogue: 0,0:50:06.82,0:50:08.15,Default,,0,0,0,,Kako izgleda?
+Dialogue: 0,0:50:09.66,0:50:11.26,Default,,0,0,0,,Izgleda da ste brzo stigli.
+Dialogue: 0,0:50:18.40,0:50:19.73,Default,,0,0,0,,Izaci.
+Dialogue: 0,0:50:19.77,0:50:21.50,Default,,0,0,0,,Čekaj.
+Dialogue: 0,0:50:21.54,0:50:23.27,Default,,0,0,0,,- Opa. - Ti si poput njega.
+Dialogue: 0,0:50:23.30,0:50:24.54,Default,,0,0,0,,Ne, ne razumijes.
+Dialogue: 0,0:50:24.57,0:50:25.64,Default,,0,0,0,,Dolazio je ovamo po tebe.
+Dialogue: 0,0:50:25.67,0:50:26.87,Default,,0,0,0,,Pokusavao sam da vam pomognem.
+Dialogue: 0,0:50:26.91,0:50:28.71,Default,,0,0,0,,Zasto ne pomognete ostatku posade?
+Dialogue: 0,0:50:28.74,0:50:31.14,Default,,0,0,0,,Izmice kontroli. Ti si vodja.
+Dialogue: 0,0:50:31.18,0:50:32.28,Default,,0,0,0,,Trebao bi nesto poduzeti po tom pitanju.
+Dialogue: 0,0:50:46.83,0:50:47.86,Default,,0,0,0,,Zasto si to ucinio?
+Dialogue: 0,0:50:49.40,0:50:51.36,Default,,0,0,0,,Šta?
+Dialogue: 0,0:50:51.40,0:50:52.50,Default,,0,0,0,,Znali ste da cu pronaci Selu,
+Dialogue: 0,0:50:52.53,0:50:54.47,Default,,0,0,0,,i otisao si pravo do nje.
+Dialogue: 0,0:50:54.50,0:50:56.64,Default,,0,0,0,,Morate je ostaviti na miru.
+Dialogue: 0,0:50:56.67,0:50:58.20,Default,,0,0,0,,Vi mislite da ste glavni sef,
+Dialogue: 0,0:50:58.24,0:50:59.67,Default,,0,0,0,,- mozes mi reci sta da radim? - Ne.
+Dialogue: 0,0:50:59.71,0:51:01.84,Default,,0,0,0,,- Dobro. - Kazem ti kao prijatelj.
+Dialogue: 0,0:51:01.88,0:51:03.21,Default,,0,0,0,,Kloni se nje.
+Dialogue: 0,0:51:03.24,0:51:04.58,Default,,0,0,0,,Uradicu sta zelim.
+Dialogue: 0,0:51:56.40,0:51:57.43,Default,,0,0,0,,Kai!
+Dialogue: 0,0:51:57.46,0:51:58.63,Default,,0,0,0,,Šta to radis, Kai?
+Dialogue: 0,0:52:27.80,0:52:29.60,Default,,0,0,0,,Šta ima? Ne, dobro sam.
+Dialogue: 0,0:52:32.47,0:52:34.80,Default,,0,0,0,,Tayo ... Tayo, sidji odatle.
+Dialogue: 0,0:52:34.84,0:52:35.90,Default,,0,0,0,,Ne sjedite na stolu.
+Dialogue: 0,0:52:38.30,0:52:40.01,Default,,0,0,0,,Tako je.
+Dialogue: 0,0:52:40.04,0:52:41.51,Default,,0,0,0,,Ne biste trebali stavljati noge tamo gdje jedete.
+Dialogue: 0,0:52:41.54,0:52:43.88,Default,,0,0,0,,Zatvori lice.
+Dialogue: 0,0:52:43.91,0:52:45.61,Default,,0,0,0,,U redu. To je dovoljno.
+Dialogue: 0,0:52:48.75,0:52:50.35,Default,,0,0,0,,- Jedi. - Šta?
+Dialogue: 0,0:52:52.95,0:52:54.56,Default,,0,0,0,,Ne ne ne! Stani!
+Dialogue: 0,0:52:54.59,0:52:55.72,Default,,0,0,0,,Stani!
+Dialogue: 0,0:53:00.49,0:53:02.43,Default,,0,0,0,,Pusti!
+Dialogue: 0,0:53:02.46,0:53:03.96,Default,,0,0,0,,- Pusti! - Pusti to.
+Dialogue: 0,0:53:04.00,0:53:05.53,Default,,0,0,0,,- Pusti to! - Hajde!
+Dialogue: 0,0:53:05.57,0:53:06.67,Default,,0,0,0,,- Pusti! - Stani!
+Dialogue: 0,0:53:32.83,0:53:35.46,Default,,0,0,0,,Idemo ih lijeciti.
+Dialogue: 0,0:53:35.50,0:53:36.93,Default,,0,0,0,,A onda zelim sve u zajednickoj sobi.
+Dialogue: 0,0:53:46.47,0:53:47.81,Default,,0,0,0,,Nema vise borbe.
+Dialogue: 0,0:53:49.54,0:53:51.51,Default,,0,0,0,,Mora prestati.
+Dialogue: 0,0:53:51.55,0:53:53.05,Default,,0,0,0,,Nije nacin na koji rjesavamo nase sukobe.
+Dialogue: 0,0:53:53.91,0:53:54.92,Default,,0,0,0,,Da li razumijes?
+Dialogue: 0,0:53:58.75,0:54:00.59,Default,,0,0,0,,Takodje, neki od nas ne rade svoj posao.
+Dialogue: 0,0:54:01.99,0:54:03.96,Default,,0,0,0,,Niko ne odrzava brod.
+Dialogue: 0,0:54:03.99,0:54:06.36,Default,,0,0,0,,Zasto bismo, ako niko drugi ne zna?
+Dialogue: 0,0:54:06.39,0:54:07.69,Default,,0,0,0,,Jer ako ne, ko hoce?
+Dialogue: 0,0:54:07.73,0:54:09.60,Default,,0,0,0,,Nije fer.
+Dialogue: 0,0:54:09.63,0:54:11.33,Default,,0,0,0,,Moramo sanirati stetu i zastititi brod.
+Dialogue: 0,0:54:11.36,0:54:12.93,Default,,0,0,0,,Želim da svi zavrse ta dva posla.
+Dialogue: 0,0:54:12.97,0:54:14.33,Default,,0,0,0,,Brod je siguran.
+Dialogue: 0,0:54:15.14,0:54:16.70,Default,,0,0,0,,Odradili smo svoj posao.
+Dialogue: 0,0:54:16.74,0:54:19.54,Default,,0,0,0,,Tada bi svi trebali biti u sistemskoj sobi.
+Dialogue: 0,0:54:19.57,0:54:21.98,Default,,0,0,0,,Ne. Sad radimo na zalihama hrane.
+Dialogue: 0,0:54:22.01,0:54:23.54,Default,,0,0,0,,Ovo je vaznije.
+Dialogue: 0,0:54:23.58,0:54:24.88,Default,,0,0,0,,Vaznije od hrane?
+Dialogue: 0,0:54:26.65,0:54:28.88,Default,,0,0,0,,Ne, grijesis u vezi s tim.
+Dialogue: 0,0:54:28.92,0:54:31.02,Default,,0,0,0,,Ionako nisi radio na hrani.
+Dialogue: 0,0:54:31.05,0:54:32.72,Default,,0,0,0,,Nisi nista radio.
+Dialogue: 0,0:54:33.72,0:54:35.12,Default,,0,0,0,,Niko nije.
+Dialogue: 0,0:54:35.16,0:54:36.92,Default,,0,0,0,,A ako to ne ucinimo, misija nece prezivjeti.
+Dialogue: 0,0:54:36.96,0:54:38.83,Default,,0,0,0,,Koga briga?
+Dialogue: 0,0:54:38.86,0:54:39.93,Default,,0,0,0,,Ionako necemo uspjeti.
+Dialogue: 0,0:54:39.96,0:54:41.03,Default,,0,0,0,,Ali neko hoce.
+Dialogue: 0,0:54:42.73,0:54:44.46,Default,,0,0,0,,A nas je posao da ih podrzimo.
+Dialogue: 0,0:54:44.50,0:54:45.57,Default,,0,0,0,,Da se postave temelji.
+Dialogue: 0,0:54:45.60,0:54:46.93,Default,,0,0,0,,Za nase unuke.
+Dialogue: 0,0:54:46.97,0:54:49.50,Default,,0,0,0,,Koga je briga za njih? Bicemo mrtvi.
+Dialogue: 0,0:54:49.54,0:54:51.87,Default,,0,0,0,,Slusaj, pripremit cemo cijeli taj dio,
+Dialogue: 0,0:54:51.91,0:54:53.61,Default,,0,0,0,,i svi ce raditi na tome.
+Dialogue: 0,0:54:53.64,0:54:55.04,Default,,0,0,0,,Ne zelim raditi u sistemskoj sobi.
+Dialogue: 0,0:54:55.08,0:54:58.05,Default,,0,0,0,,- Zasto ne? - Jednostavno ne znam.
+Dialogue: 0,0:54:58.08,0:55:00.55,Default,,0,0,0,,Misli da vanzemaljac tamo zivi.
+Dialogue: 0,0:55:00.58,0:55:02.15,Default,,0,0,0,,Šta? To nema smisla.
+Dialogue: 0,0:55:02.18,0:55:03.88,Default,,0,0,0,,To je spolja.
+Dialogue: 0,0:55:03.92,0:55:05.48,Default,,0,0,0,,Kaze da smo ga unijeli unutra s Richardom.
+Dialogue: 0,0:55:06.82,0:55:08.79,Default,,0,0,0,,Christopher ga je donio.
+Dialogue: 0,0:55:08.82,0:55:10.39,Default,,0,0,0,,Sada se skriva na ostecenom podrucju.
+Dialogue: 0,0:55:11.59,0:55:13.13,Default,,0,0,0,,To nije istina.
+Dialogue: 0,0:55:13.16,0:55:15.03,Default,,0,0,0,,Ja, recimo, ne znam postoji li vanzemaljac.
+Dialogue: 0,0:55:15.06,0:55:16.80,Default,,0,0,0,,Koga briga sta vi ne znate?
+Dialogue: 0,0:55:16.83,0:55:18.17,Default,,0,0,0,,Ako popravimo stetu,
+Dialogue: 0,0:55:18.20,0:55:19.73,Default,,0,0,0,,mozemo gledati video nadzor i vidjeti ...
+Dialogue: 0,0:55:19.77,0:55:22.84,Default,,0,0,0,,Zatvori svoje debelo lice ispunjeno gnojem.
+Dialogue: 0,0:55:22.87,0:55:24.64,Default,,0,0,0,,Imam pravo na razgovor.
+Dialogue: 0,0:55:24.67,0:55:26.81,Default,,0,0,0,,Pricas previse, napuhnuto, snjeznjak.
+Dialogue: 0,0:55:26.84,0:55:28.84,Default,,0,0,0,,Zac, ona moze razgovarati.
+Dialogue: 0,0:55:28.88,0:55:30.78,Default,,0,0,0,,I ti umukni.
+Dialogue: 0,0:55:30.81,0:55:33.41,Default,,0,0,0,,Ko si ti? Reci ljudima sta da rade.
+Dialogue: 0,0:55:33.45,0:55:34.68,Default,,0,0,0,,Ja sam glavni oficir.
+Dialogue: 0,0:55:34.72,0:55:35.92,Default,,0,0,0,,Zasto bi to imalo razlike?
+Dialogue: 0,0:55:35.95,0:55:37.15,Default,,0,0,0,,Jer ja sam odabran.
+Dialogue: 0,0:55:37.18,0:55:39.15,Default,,0,0,0,,To je u programu. To je u pravilima.
+Dialogue: 0,0:55:39.19,0:55:40.75,Default,,0,0,0,,Koga briga za pravila?
+Dialogue: 0,0:55:40.79,0:55:42.42,Default,,0,0,0,,Zac! Hajde.
+Dialogue: 0,0:55:42.46,0:55:44.76,Default,,0,0,0,,Snazni smo, mozemo raditi sto zelimo.
+Dialogue: 0,0:55:47.59,0:55:49.56,Default,,0,0,0,,Zaustavi to! Oboje. Stani!
+Dialogue: 0,0:55:49.60,0:55:51.03,Default,,0,0,0,,Vise ne slusam Christophera.
+Dialogue: 0,0:55:51.06,0:55:52.20,Default,,0,0,0,,On je glavni oficir.
+Dialogue: 0,0:55:52.23,0:55:53.70,Default,,0,0,0,,Nisi zapovjednik.
+Dialogue: 0,0:55:55.54,0:55:57.74,Default,,0,0,0,,- Ti nisi vodja. - Pokusavam da nas drzi na putu.
+Dialogue: 0,0:55:57.77,0:55:59.74,Default,,0,0,0,,Svako ko zeli da me prati moze.
+Dialogue: 0,0:56:01.14,0:56:03.48,Default,,0,0,0,,- Napravicu jos hrane. - To je i nasa hrana.
+Dialogue: 0,0:56:03.51,0:56:04.81,Default,,0,0,0,,A ja cu te zastititi od vanzemaljca.
+Dialogue: 0,0:56:04.85,0:56:05.91,Default,,0,0,0,,Pogotovo ako je sada u brodu.
+Dialogue: 0,0:56:05.95,0:56:07.41,Default,,0,0,0,,Samo ih pokusavas uplasiti.
+Dialogue: 0,0:56:10.62,0:56:11.82,Default,,0,0,0,,Zoves me lazovom?
+Dialogue: 0,0:56:15.06,0:56:16.52,Default,,0,0,0,,Zac, zasto to radis?
+Dialogue: 0,0:56:20.99,0:56:22.10,Default,,0,0,0,,Treba nam novi vodja.
+Dialogue: 0,0:56:24.73,0:56:26.17,Default,,0,0,0,,Ne zna kako te hraniti.
+Dialogue: 0,0:56:27.80,0:56:30.24,Default,,0,0,0,,Ne moze te zastititi.
+Dialogue: 0,0:56:30.27,0:56:32.14,Default,,0,0,0,,I necu ga vise slusati.
+Dialogue: 0,0:56:35.71,0:56:39.05,Default,,0,0,0,,Svi koji zele biti dio moje grupe su dobrodosli.
+Dialogue: 0,0:56:41.75,0:56:44.15,Default,,0,0,0,,Imat cemo vise hrane, pa smo jaki ...
+Dialogue: 0,0:56:44.18,0:56:46.92,Default,,0,0,0,,Dovoljno jak da se bori protiv vanzemaljca, dovoljno jak
+Dialogue: 0,0:56:48.12,0:56:49.46,Default,,0,0,0,,da ga ubije.
+Dialogue: 0,0:57:00.30,0:57:01.54,Default,,0,0,0,,Svako ko zeli
+Dialogue: 0,0:57:03.14,0:57:04.14,Default,,0,0,0,,moze poci sa mnom.
+Dialogue: 0,0:57:21.25,0:57:23.12,Default,,0,0,0,,Što ako je Zac u pravu s vanzemaljcem?
+Dialogue: 0,0:57:43.58,0:57:45.05,Default,,0,0,0,,Ako mozemo samo dobiti taj nadzorni pogon,
+Dialogue: 0,0:57:45.08,0:57:46.65,Default,,0,0,0,,tada mozemo vidjeti sta se stvarno dogodilo.
+Dialogue: 0,0:57:48.02,0:57:50.15,Default,,0,0,0,,Ne mislite valjda da tamo zivi?
+Dialogue: 0,0:57:51.25,0:57:52.59,Default,,0,0,0,,Ne znam.
+Dialogue: 0,0:58:30.92,0:58:31.99,Default,,0,0,0,,Šta radis?
+Dialogue: 0,0:58:32.93,0:58:34.29,Default,,0,0,0,,Nista.
+Dialogue: 0,0:58:34.33,0:58:35.56,Default,,0,0,0,,Gdje je Christopher?
+Dialogue: 0,0:58:36.40,0:58:37.63,Default,,0,0,0,,Ja ... ne znam.
+Dialogue: 0,0:58:40.83,0:58:41.87,Default,,0,0,0,,Ko je u sistemskoj sobi?
+Dialogue: 0,0:58:41.90,0:58:42.94,Default,,0,0,0,,Niko.
+Dialogue: 0,0:58:48.64,0:58:50.24,Default,,0,0,0,,Svi ostanite ovdje.
+Dialogue: 0,0:58:50.28,0:58:51.78,Default,,0,0,0,,Ne dopustite nikome da udje.
+Dialogue: 0,0:59:19.74,0:59:20.84,Default,,0,0,0,,Šta ti mislis?
+Dialogue: 0,0:59:24.34,0:59:25.38,Default,,0,0,0,,Šta je tamo?
+Dialogue: 0,0:59:48.10,0:59:49.27,Default,,0,0,0,,Šta je to?
+Dialogue: 0,0:59:51.07,0:59:52.74,Default,,0,0,0,,- Stani iza toga. - Pokusaj zatvoriti vrata.
+Dialogue: 0,0:59:54.01,0:59:58.18,Default,,0,0,0,,Idi! Idi! Idi!
+Dialogue: 0,1:00:00.38,1:00:02.15,Default,,0,0,0,,Zatvori! Zatvori!
+Dialogue: 0,1:00:02.18,1:00:04.32,Default,,0,0,0,,Sta je to bilo? Šta se desilo?
+Dialogue: 0,1:00:04.35,1:00:06.02,Default,,0,0,0,,Sta je to bilo
+Dialogue: 0,1:00:14.43,1:00:17.00,Default,,0,0,0,,Nadzorni pogon.
+Dialogue: 0,1:00:17.03,1:00:20.00,Default,,0,0,0,,- Stvarno je bilo necega tamo? - Šta je bilo?
+Dialogue: 0,1:00:21.84,1:00:24.00,Default,,0,0,0,,- Ne znam. - Nije Christopher?
+Dialogue: 0,1:00:24.04,1:00:25.44,Default,,0,0,0,,- Ne. - Kako je to izgledalo?
+Dialogue: 0,1:00:26.77,1:00:28.88,Default,,0,0,0,,Bilo je mracno. Nismo mogli vidjeti.
+Dialogue: 0,1:00:35.02,1:00:36.72,Default,,0,0,0,,U redu...
+Dialogue: 0,1:00:42.99,1:00:44.93,Default,,0,0,0,,Pocnite sada iskljucivati ​​krugove predajnika.
+Dialogue: 0,1:00:44.96,1:00:46.13,Default,,0,0,0,,Prilicno je ostecen.
+Dialogue: 0,1:00:46.16,1:00:47.89,Default,,0,0,0,,Ne vidis nista.
+Dialogue: 0,1:00:47.93,1:00:49.20,Default,,0,0,0,,- Razumijem. - Pokusajmo sa drugim uglom.
+Dialogue: 0,1:00:56.44,1:00:58.14,Default,,0,0,0,,Mogu ovo ocistiti.
+Dialogue: 0,1:00:58.17,1:00:59.41,Default,,0,0,0,,Nije tako lose kako izgleda.
+Dialogue: 0,1:01:03.94,1:01:04.98,Default,,0,0,0,,Sve je uredu?
+Dialogue: 0,1:01:05.01,1:01:06.41,Default,,0,0,0,,Ne.
+Dialogue: 0,1:01:07.11,1:01:09.08,Default,,0,0,0,,Šta je?
+Dialogue: 0,1:01:09.12,1:01:10.98,Default,,0,0,0,,Zac i Kai bili su u sistemskoj sobi odmah nakon vaseg odlaska.
+Dialogue: 0,1:01:12.09,1:01:13.85,Default,,0,0,0,,Rekli su da su vidjeli vanzemaljca.
+Dialogue: 0,1:01:13.89,1:01:15.39,Default,,0,0,0,,- Oni su se borili protiv toga. - Šta?
+Dialogue: 0,1:01:15.42,1:01:16.86,Default,,0,0,0,,Nije bilo tamo kad sam bio unutra.
+Dialogue: 0,1:01:16.89,1:01:18.76,Default,,0,0,0,,I soba izgleda unisteno.
+Dialogue: 0,1:01:18.79,1:01:20.09,Default,,0,0,0,,Posvuda ima komada nadzorne jedinice.
+Dialogue: 0,1:01:21.56,1:01:23.90,Default,,0,0,0,,Vanzemaljac je to ucinio?
+Dialogue: 0,1:01:23.93,1:01:25.13,Default,,0,0,0,,Ili su to sami ucinili.
+Dialogue: 0,1:01:29.27,1:01:30.47,Default,,0,0,0,,Nema veze.
+Dialogue: 0,1:01:30.50,1:01:31.74,Default,,0,0,0,,Ovdje imamo sve podatke.
+Dialogue: 0,1:01:33.84,1:01:35.01,Default,,0,0,0,,Ali ako su to bili Zac i Kai,
+Dialogue: 0,1:01:35.04,1:01:36.21,Default,,0,0,0,,ucinili su to s razlogom.
+Dialogue: 0,1:01:40.31,1:01:41.78,Default,,0,0,0,,Da unisti plocu.
+Dialogue: 0,1:02:01.94,1:02:03.44,Default,,0,0,0,,Ko je sa njim?
+Dialogue: 0,1:02:03.47,1:02:05.47,Default,,0,0,0,,Christopher.
+Dialogue: 0,1:02:05.51,1:02:07.84,Default,,0,0,0,,To sam trebao biti ja.
+Dialogue: 0,1:02:07.87,1:02:09.14,Default,,0,0,0,,Richard te trazio.
+Dialogue: 0,1:02:12.11,1:02:14.01,Default,,0,0,0,,U redu, idite u LCT 2.
+Dialogue: 0,1:02:14.05,1:02:16.22,Default,,0,0,0,,Kopirajte to. Iskljucivanje LCT-a 2.
+Dialogue: 0,1:02:20.15,1:02:22.12,Default,,0,0,0,,Trebao bi mu dati malo problema zbog njegove nevolje.
+Dialogue: 0,1:02:23.56,1:02:25.16,Default,,0,0,0,,Zbog moje nevolje ...
+Dialogue: 0,1:02:26.96,1:02:28.26,Default,,0,0,0,,Mala iskra.
+Dialogue: 0,1:02:28.30,1:02:29.83,Default,,0,0,0,,- Ubod? - Ubod.
+Dialogue: 0,1:02:37.17,1:02:38.94,Default,,0,0,0,,Ti bi to mogao.
+Dialogue: 0,1:02:38.97,1:02:41.21,Default,,0,0,0,,- Znam da bih mogao. - Bio bi iznenadjen.
+Dialogue: 0,1:02:42.34,1:02:44.44,Default,,0,0,0,,Bio bi sokiran.
+Dialogue: 0,1:02:49.52,1:02:50.82,Default,,0,0,0,,Čujes li to?
+Dialogue: 0,1:02:52.92,1:02:54.92,Default,,0,0,0,,Da, to je samo brod.
+Dialogue: 0,1:02:54.95,1:02:56.46,Default,,0,0,0,,Sve je vrijeme znao da je to brod.
+Dialogue: 0,1:02:59.26,1:03:00.26,Default,,0,0,0,,Ovaj?
+Dialogue: 0,1:03:01.09,1:03:02.23,Default,,0,0,0,,Da.
+Dialogue: 0,1:03:06.43,1:03:07.60,Default,,0,0,0,,Nije to osjetio.
+Dialogue: 0,1:03:12.07,1:03:13.41,Default,,0,0,0,,Nista.
+Dialogue: 0,1:03:13.44,1:03:15.01,Default,,0,0,0,,Da li dodiruje kabel?
+Dialogue: 0,1:03:15.04,1:03:17.24,Default,,0,0,0,,Da. Ali rukavice su mu izolirane.
+Dialogue: 0,1:03:30.66,1:03:31.86,Default,,0,0,0,,Ubistvo ...
+Dialogue: 0,1:03:42.30,1:03:44.57,Default,,0,0,0,,Ne spominji ovo nikome.
+Dialogue: 0,1:03:44.61,1:03:46.24,Default,,0,0,0,,Tek dok ne odlucimo sta cemo raditi.
+Dialogue: 0,1:03:51.41,1:03:52.61,Default,,0,0,0,,Kako je Zac to mogao uciniti?
+Dialogue: 0,1:03:55.32,1:03:56.55,Default,,0,0,0,,Zasto su svi poludjeli?
+Dialogue: 0,1:03:58.25,1:03:59.42,Default,,0,0,0,,Mozda nisu.
+Dialogue: 0,1:04:01.96,1:04:03.46,Default,,0,0,0,,Mozda su ovo zaista oni.
+Dialogue: 0,1:04:05.06,1:04:06.93,Default,,0,0,0,,Imamo svoja pravila koja nas drze u skladu,
+Dialogue: 0,1:04:09.60,1:04:11.50,Default,,0,0,0,,ali duboko u sebi, mozda je ovo nasa prava priroda.
+Dialogue: 0,1:04:13.50,1:04:14.50,Default,,0,0,0,,Ne.
+Dialogue: 0,1:04:16.60,1:04:18.64,Default,,0,0,0,,Ne moze biti. Ja nisam takav.
+Dialogue: 0,1:04:19.64,1:04:21.14,Default,,0,0,0,,Ti nisi takav.
+Dialogue: 0,1:04:23.01,1:04:24.01,Default,,0,0,0,,Nisi.
+Dialogue: 0,1:04:26.51,1:04:30.18,Default,,0,0,0,,A posada ce biti na nasoj strani kad sazna istinu.
+Dialogue: 0,1:04:31.15,1:04:32.22,Default,,0,0,0,,Nisam bas siguran.
+Dialogue: 0,1:04:33.45,1:04:34.59,Default,,0,0,0,,Vise ih nije briga.
+Dialogue: 0,1:04:38.63,1:04:40.06,Default,,0,0,0,,Ponekad ni ja.
+Dialogue: 0,1:04:40.76,1:04:41.96,Default,,0,0,0,,Stalo ti je.
+Dialogue: 0,1:04:44.06,1:04:45.06,Default,,0,0,0,,Znam da znas.
+Dialogue: 0,1:04:49.17,1:04:50.37,Default,,0,0,0,,Trebao bih te ostaviti na miru.
+Dialogue: 0,1:04:53.37,1:04:54.41,Default,,0,0,0,,Ne.
+Dialogue: 0,1:04:57.75,1:04:59.08,Default,,0,0,0,,Želim da ostanes.
+Dialogue: 0,1:06:30.24,1:06:31.54,Default,,0,0,0,,Vrijeme je za budjenje, Sela.
+Dialogue: 0,1:06:40.45,1:06:41.62,Default,,0,0,0,,Odlazi!
+Dialogue: 0,1:06:44.35,1:06:46.49,Default,,0,0,0,,Oh, ne idemo dalje. Ulazimo.
+Dialogue: 0,1:06:59.87,1:07:02.17,Default,,0,0,0,,Šta radis?
+Dialogue: 0,1:07:02.20,1:07:03.30,Default,,0,0,0,,Šta radis?
+Dialogue: 0,1:07:04.87,1:07:07.27,Default,,0,0,0,,Vidim da ovdje razbijam lijepu sitnicu.
+Dialogue: 0,1:07:07.31,1:07:08.68,Default,,0,0,0,,Šta zelis?
+Dialogue: 0,1:07:08.71,1:07:10.41,Default,,0,0,0,,Imamo proslavu.
+Dialogue: 0,1:07:10.44,1:07:11.65,Default,,0,0,0,,Upravo sada?
+Dialogue: 0,1:07:11.68,1:07:13.15,Default,,0,0,0,,Da.
+Dialogue: 0,1:07:13.18,1:07:14.18,Default,,0,0,0,,Sela je pozvana.
+Dialogue: 0,1:07:15.52,1:07:17.28,Default,,0,0,0,,Pretpostavljam da ste i vi.
+Dialogue: 0,1:07:17.32,1:07:18.72,Default,,0,0,0,,Dodji jesti. Ako zelis.
+Dialogue: 0,1:07:20.45,1:07:21.45,Default,,0,0,0,,Nemoj ako nemas.
+Dialogue: 0,1:07:50.58,1:07:51.59,Default,,0,0,0,,- Jesi li dobro? - Mmm-hmm.
+Dialogue: 0,1:07:53.75,1:07:54.76,Default,,0,0,0,,Uzmi malo hrane.
+Dialogue: 0,1:07:55.79,1:07:56.79,Default,,0,0,0,,Sigurno ste gladni.
+Dialogue: 0,1:08:11.87,1:08:13.34,Default,,0,0,0,,U redu, slusajte svi.
+Dialogue: 0,1:08:17.54,1:08:21.41,Default,,0,0,0,,Sad znam da smo u proslosti imali nekih nesuglasica.
+Dialogue: 0,1:08:21.45,1:08:22.82,Default,,0,0,0,,Sve cemo to ostaviti iza sebe.
+Dialogue: 0,1:08:24.48,1:08:25.59,Default,,0,0,0,,Sada sam glavni oficir,
+Dialogue: 0,1:08:27.32,1:08:28.42,Default,,0,0,0,,i tako ce biti.
+Dialogue: 0,1:08:30.62,1:08:32.73,Default,,0,0,0,,Od sada cemo raditi posao,
+Dialogue: 0,1:08:32.76,1:08:35.73,Default,,0,0,0,,ali ucinit cemo to kad hocemo i kako zelimo.
+Dialogue: 0,1:08:38.57,1:08:39.83,Default,,0,0,0,,Donijet cemo pravila,
+Dialogue: 0,1:08:41.43,1:08:43.70,Default,,0,0,0,,i svakoga ko ih polomi
+Dialogue: 0,1:08:43.74,1:08:45.17,Default,,0,0,0,,morat ce mi odgovoriti.
+Dialogue: 0,1:08:46.51,1:08:48.91,Default,,0,0,0,,Vanzemaljac je negdje u brodu.
+Dialogue: 0,1:08:48.94,1:08:52.38,Default,,0,0,0,,Ponovno cemo se boriti ako treba i pobijedit cemo.
+Dialogue: 0,1:08:52.41,1:08:54.75,Default,,0,0,0,,Sad ces biti siguran jer cu te zastititi.
+Dialogue: 0,1:08:58.48,1:09:00.85,Default,,0,0,0,,Hej sta radis?
+Dialogue: 0,1:09:01.86,1:09:02.86,Default,,0,0,0,,Sjedni.
+Dialogue: 0,1:09:05.99,1:09:07.70,Default,,0,0,0,,Richard je ubijen
+Dialogue: 0,1:09:07.73,1:09:09.86,Default,,0,0,0,,u 13:58:37.
+Dialogue: 0,1:09:09.90,1:09:12.43,Default,,0,0,0,,- Razumijem. - Udario ga je struja.
+Dialogue: 0,1:09:12.47,1:09:14.90,Default,,0,0,0,,Iskljucivanje LCT-a 1.
+Dialogue: 0,1:09:14.94,1:09:16.24,Default,,0,0,0,,Ko je sa njim?
+Dialogue: 0,1:09:17.34,1:09:18.54,Default,,0,0,0,,Christopher.
+Dialogue: 0,1:09:18.57,1:09:20.67,Default,,0,0,0,,To sam trebao biti ja.
+Dialogue: 0,1:09:20.71,1:09:22.91,Default,,0,0,0,,Trebao bi mu dati malo problema zbog njegove nevolje.
+Dialogue: 0,1:09:23.64,1:09:24.85,Default,,0,0,0,,Mala iskra.
+Dialogue: 0,1:09:24.88,1:09:25.98,Default,,0,0,0,,- Ubod? - Ubod.
+Dialogue: 0,1:09:27.41,1:09:29.35,Default,,0,0,0,,- Ovaj? - Da.
+Dialogue: 0,1:09:29.38,1:09:30.62,Default,,0,0,0,,Nije to osjetio.
+Dialogue: 0,1:09:30.65,1:09:31.99,Default,,0,0,0,,Da li dodiruje kabel?
+Dialogue: 0,1:09:32.02,1:09:33.69,Default,,0,0,0,,Da, ali njegove rukavice su izolirane.
+Dialogue: 0,1:09:40.53,1:09:42.33,Default,,0,0,0,,Zac je ubio Richarda.
+Dialogue: 0,1:09:43.73,1:09:45.47,Default,,0,0,0,,Ne postoji vanzemaljac.
+Dialogue: 0,1:09:45.50,1:09:48.60,Default,,0,0,0,,Ne tamo, ne unutra. Tu je samo Zac.
+Dialogue: 0,1:09:48.64,1:09:50.57,Default,,0,0,0,,Sve vrijeme te laze.
+Dialogue: 0,1:09:53.07,1:09:54.58,Default,,0,0,0,,Ali sada znate istinu.
+Dialogue: 0,1:09:55.91,1:09:59.38,Default,,0,0,0,,Videli ste to svojim ocima.
+Dialogue: 0,1:09:59.41,1:10:02.85,Default,,0,0,0,,Zac bi trebao otici u svoj pretinac dok mi pregledamo program.
+Dialogue: 0,1:10:02.88,1:10:04.59,Default,,0,0,0,,Tada cemo odluciti sta cemo raditi.
+Dialogue: 0,1:10:13.63,1:10:14.63,Default,,0,0,0,,Istina je.
+Dialogue: 0,1:10:15.56,1:10:16.56,Default,,0,0,0,,Ucinio sam to.
+Dialogue: 0,1:10:19.80,1:10:21.00,Default,,0,0,0,,Ubio sam ga.
+Dialogue: 0,1:10:25.97,1:10:28.71,Default,,0,0,0,,Ali ucinio sam to za vas.
+Dialogue: 0,1:10:31.01,1:10:33.38,Default,,0,0,0,,Ucinio sam to da te zastitim.
+Dialogue: 0,1:10:33.41,1:10:37.75,Default,,0,0,0,,Ucinio sam to jer sam u njemu vidio vanzemaljca.
+Dialogue: 0,1:10:37.79,1:10:40.79,Default,,0,0,0,,Vanzemaljac je bio u Richardu,
+Dialogue: 0,1:10:40.82,1:10:42.42,Default,,0,0,0,,a onda ga je Christopher unio unutra.
+Dialogue: 0,1:10:42.46,1:10:43.59,Default,,0,0,0,,To nije istina.
+Dialogue: 0,1:10:43.62,1:10:45.46,Default,,0,0,0,,Nije trebao.
+Dialogue: 0,1:10:45.49,1:10:47.80,Default,,0,0,0,,Znao je da nesto nije u redu, ali svejedno je to ucinio.
+Dialogue: 0,1:10:47.83,1:10:51.10,Default,,0,0,0,,Doveo je vanzemaljca u brod.
+Dialogue: 0,1:10:51.13,1:10:53.00,Default,,0,0,0,,Pogledajte samo ostatak videa.
+Dialogue: 0,1:10:53.03,1:10:54.54,Default,,0,0,0,,Vidjet cete da laze.
+Dialogue: 0,1:10:54.57,1:10:56.34,Default,,0,0,0,,Ubio sam Richarda da zastitim posadu,
+Dialogue: 0,1:10:56.37,1:10:58.84,Default,,0,0,0,,ali sada je vanzemaljac negdje u brodu.
+Dialogue: 0,1:10:58.87,1:11:00.97,Default,,0,0,0,,Moramo otkriti gdje da to zaustavimo.
+Dialogue: 0,1:11:01.01,1:11:02.34,Default,,0,0,0,,Pa mozemo ga ubiti.
+Dialogue: 0,1:11:02.38,1:11:04.68,Default,,0,0,0,,Tako je. Ubit cemo ga.
+Dialogue: 0,1:11:04.71,1:11:06.48,Default,,0,0,0,,Vraticemo kontrolu.
+Dialogue: 0,1:11:06.51,1:11:09.82,Default,,0,0,0,,Drogirani smo i izdani i programirani od lazova,
+Dialogue: 0,1:11:09.85,1:11:12.59,Default,,0,0,0,,ali necemo vise pratiti program.
+Dialogue: 0,1:11:14.09,1:11:16.36,Default,,0,0,0,,Ne mozemo pobjeci od ovog zivota,
+Dialogue: 0,1:11:16.39,1:11:18.66,Default,,0,0,0,,ali necemo samo leci i odustati.
+Dialogue: 0,1:11:18.69,1:11:20.43,Default,,0,0,0,,Necemo se bojati.
+Dialogue: 0,1:11:20.46,1:11:21.80,Default,,0,0,0,,Necemo biti terorizirani.
+Dialogue: 0,1:11:21.83,1:11:23.36,Default,,0,0,0,,Uzvratit cemo, naci cemo ga!
+Dialogue: 0,1:11:23.40,1:11:24.43,Default,,0,0,0,,Nema se sta naci.
+Dialogue: 0,1:11:24.46,1:11:25.50,Default,,0,0,0,,Gdje je sada?
+Dialogue: 0,1:11:27.43,1:11:28.80,Default,,0,0,0,,Prvo,
+Dialogue: 0,1:11:28.84,1:11:30.04,Default,,0,0,0,,bilo je u Richardu.
+Dialogue: 0,1:11:33.04,1:11:34.81,Default,,0,0,0,,Sad se mozda krije u nekom drugom.
+Dialogue: 0,1:11:37.04,1:11:38.44,Default,,0,0,0,,Jedan od vas.
+Dialogue: 0,1:11:40.55,1:11:41.55,Default,,0,0,0,,To biste mogli biti vi.
+Dialogue: 0,1:11:47.62,1:11:48.62,Default,,0,0,0,,Ili ti.
+Dialogue: 0,1:11:52.86,1:11:53.86,Default,,0,0,0,,Ili ti.
+Dialogue: 0,1:11:55.66,1:11:56.90,Default,,0,0,0,,Ubit cemo ga.
+Dialogue: 0,1:11:56.93,1:11:59.80,Default,,0,0,0,,Da. Pronaci cemo ga i ubiti.
+Dialogue: 0,1:11:59.83,1:12:01.77,Default,,0,0,0,,- Ubij to. - Moramo ga pronaci.
+Dialogue: 0,1:12:01.80,1:12:03.67,Default,,0,0,0,,- To bi mogao biti ti. - Ili ti.
+Dialogue: 0,1:12:03.70,1:12:04.71,Default,,0,0,0,,Ili ti.
+Dialogue: 0,1:12:11.11,1:12:12.11,Default,,0,0,0,,Ili njega.
+Dialogue: 0,1:12:14.85,1:12:16.78,Default,,0,0,0,,To je on.
+Dialogue: 0,1:12:16.82,1:12:18.95,Default,,0,0,0,,- To je on! - On ...
+Dialogue: 0,1:12:18.99,1:12:20.75,Default,,0,0,0,,To je on!
+Dialogue: 0,1:12:20.79,1:12:22.19,Default,,0,0,0,,To je on.
+Dialogue: 0,1:12:22.22,1:12:23.69,Default,,0,0,0,,Njega.
+Dialogue: 0,1:12:25.19,1:12:26.73,Default,,0,0,0,,Drzite ga!
+Dialogue: 0,1:12:51.85,1:12:52.85,Default,,0,0,0,,Stani! Zaustavi to!
+Dialogue: 0,1:13:37.80,1:13:39.10,Default,,0,0,0,,Uredu je.
+Dialogue: 0,1:13:39.13,1:13:41.70,Default,,0,0,0,,U sebi je imao vanzemaljca.
+Dialogue: 0,1:13:43.70,1:13:45.21,Default,,0,0,0,,- Ne znam. - Jeste.
+Dialogue: 0,1:13:46.14,1:13:47.14,Default,,0,0,0,,Ne brini.
+Dialogue: 0,1:13:50.31,1:13:52.91,Default,,0,0,0,,Osim ako ga vi nemate unutra.
+Dialogue: 0,1:13:54.85,1:13:55.85,Default,,0,0,0,,Ne.
+Dialogue: 0,1:13:57.18,1:13:58.19,Default,,0,0,0,,Nisam ja.
+Dialogue: 0,1:14:00.99,1:14:02.86,Default,,0,0,0,,Zgrabite sve sto se moze koristiti kao oruzje.
+Dialogue: 0,1:14:04.22,1:14:08.53,Default,,0,0,0,,Skalpeli, makaze, bilo sta ostro.
+Dialogue: 0,1:14:08.56,1:14:11.30,Default,,0,0,0,,Moramo se naoruzati da se borimo.
+Dialogue: 0,1:14:11.33,1:14:13.10,Default,,0,0,0,,Treba nam nesto zbog cega ce se povuci.
+Dialogue: 0,1:14:14.30,1:14:16.57,Default,,0,0,0,,Mozda bismo trebali odustati.
+Dialogue: 0,1:14:16.60,1:14:17.80,Default,,0,0,0,,Ne mozemo odustati.
+Dialogue: 0,1:14:17.84,1:14:19.77,Default,,0,0,0,,Ali trenutno ne mozemo nista uciniti.
+Dialogue: 0,1:14:19.81,1:14:21.81,Default,,0,0,0,,Optuzili smo ga za ubistvo. Nece to zaboraviti.
+Dialogue: 0,1:14:21.84,1:14:23.91,Default,,0,0,0,,Trebali bismo se pridruziti njegovoj grupi.
+Dialogue: 0,1:14:23.94,1:14:25.21,Default,,0,0,0,,Mislim, to je ionako sve sto stvarno zeli.
+Dialogue: 0,1:14:25.25,1:14:26.68,Default,,0,0,0,,Mozda ga kasnije mozemo zadrzati.
+Dialogue: 0,1:14:26.71,1:14:27.88,Default,,0,0,0,,Tako je.
+Dialogue: 0,1:14:27.91,1:14:29.78,Default,,0,0,0,,Kad se stvari smire.
+Dialogue: 0,1:14:29.82,1:14:31.99,Default,,0,0,0,,Na kraju ce se stvari smiriti i biti u redu.
+Dialogue: 0,1:14:32.02,1:14:34.25,Default,,0,0,0,,Trenutno je preopasno.
+Dialogue: 0,1:14:34.29,1:14:35.89,Default,,0,0,0,,Ne mozemo ostati odvojeni.
+Dialogue: 0,1:14:35.92,1:14:37.02,Default,,0,0,0,,Ne postoji nacin da se borim s njim.
+Dialogue: 0,1:14:37.06,1:14:38.06,Default,,0,0,0,,Nemamo oruzje.
+Dialogue: 0,1:14:40.83,1:14:41.83,Default,,0,0,0,,Oruzje.
+Dialogue: 0,1:14:45.93,1:14:47.80,Default,,0,0,0,,Znate gdje su.
+Dialogue: 0,1:14:47.83,1:14:49.20,Default,,0,0,0,,Da?
+Dialogue: 0,1:14:49.24,1:14:50.27,Default,,0,0,0,,Rekao je da jesi.
+Dialogue: 0,1:14:50.30,1:14:52.81,Default,,0,0,0,,- Ko je? - Richard.
+Dialogue: 0,1:14:52.84,1:14:56.18,Default,,0,0,0,,Gledala sam njegov video dnevnik i rekao je da znate za oruzje.
+Dialogue: 0,1:17:32.10,1:17:33.10,Default,,0,0,0,,Šefe.
+Dialogue: 0,1:17:34.83,1:17:35.84,Default,,0,0,0,,Probudi se.
+Dialogue: 0,1:18:24.88,1:18:26.12,Default,,0,0,0,,Je li to bio vanzemaljac?
+Dialogue: 0,1:18:27.92,1:18:28.96,Default,,0,0,0,,Bio je to Christopher.
+Dialogue: 0,1:19:17.10,1:19:19.51,Default,,0,0,0,,Sigurno za trecu generaciju.
+Dialogue: 0,1:19:19.54,1:19:20.97,Default,,0,0,0,,Kad stignu na planetu.
+Dialogue: 0,1:19:24.01,1:19:25.01,Default,,0,0,0,,Ne, ovo je za nas.
+Dialogue: 0,1:19:51.94,1:19:52.94,Default,,0,0,0,,Šefe.
+Dialogue: 0,1:20:00.58,1:20:02.12,Default,,0,0,0,,Žele nam se pridruziti.
+Dialogue: 0,1:20:05.92,1:20:07.25,Default,,0,0,0,,Zasto bismo vam dozvolili?
+Dialogue: 0,1:20:08.49,1:20:10.39,Default,,0,0,0,,Šta jos mozemo uciniti?
+Dialogue: 0,1:20:10.42,1:20:12.09,Default,,0,0,0,,Je li vanzemaljac u vama?
+Dialogue: 0,1:20:12.13,1:20:13.26,Default,,0,0,0,,Ne postoji ...
+Dialogue: 0,1:20:14.70,1:20:16.10,Default,,0,0,0,,Ne, nije.
+Dialogue: 0,1:20:18.40,1:20:19.90,Default,,0,0,0,,Gdje se kriju?
+Dialogue: 0,1:20:22.64,1:20:24.47,Default,,0,0,0,,Eno ih.
+Dialogue: 0,1:20:24.50,1:20:25.94,Default,,0,0,0,,Šta drze?
+Dialogue: 0,1:20:27.14,1:20:28.14,Default,,0,0,0,,Oruzje.
+Dialogue: 0,1:20:29.54,1:20:31.91,Default,,0,0,0,,A mi samo imamo ovo.
+Dialogue: 0,1:20:34.21,1:20:35.62,Default,,0,0,0,,To nam nece pomoci.
+Dialogue: 0,1:20:35.65,1:20:37.02,Default,,0,0,0,,Mozda hoce.
+Dialogue: 0,1:20:39.49,1:20:41.12,Default,,0,0,0,,Mozemo reci da se zelimo pridruziti njegovoj grupi.
+Dialogue: 0,1:20:42.56,1:20:43.92,Default,,0,0,0,,Kao Anda i Alex.
+Dialogue: 0,1:20:43.96,1:20:45.19,Default,,0,0,0,,Nikad nece vjerovati.
+Dialogue: 0,1:20:45.23,1:20:46.33,Default,,0,0,0,,Sve sto nam treba je trenutak.
+Dialogue: 0,1:20:47.19,1:20:48.19,Default,,0,0,0,,Zasto?
+Dialogue: 0,1:20:49.96,1:20:51.60,Default,,0,0,0,,Tako da se mozemo pribliziti.
+Dialogue: 0,1:20:51.63,1:20:53.13,Default,,0,0,0,,I sta onda?
+Dialogue: 0,1:20:57.44,1:20:58.64,Default,,0,0,0,,A onda cu ga ubiti.
+Dialogue: 0,1:20:59.97,1:21:01.31,Default,,0,0,0,,Ubij ga?
+Dialogue: 0,1:21:01.34,1:21:02.61,Default,,0,0,0,,Ili ce nas ubiti.
+Dialogue: 0,1:21:02.64,1:21:05.04,Default,,0,0,0,,- Ne, nije. - Krecu se.
+Dialogue: 0,1:21:29.70,1:21:31.44,Default,,0,0,0,,Iskljucili su struju.
+Dialogue: 0,1:21:31.47,1:21:33.64,Default,,0,0,0,,- Šta da radimo? - Mi ostajemo ovde.
+Dialogue: 0,1:21:33.67,1:21:35.18,Default,,0,0,0,,Ne.
+Dialogue: 0,1:21:35.21,1:21:37.28,Default,,0,0,0,,Trebali bismo izaci tamo, razgovarati s njima.
+Dialogue: 0,1:21:37.31,1:21:39.11,Default,,0,0,0,,Reci im da se ne zelimo svadjati. I onda...
+Dialogue: 0,1:21:41.78,1:21:43.18,Default,,0,0,0,,Oni su ovdje.
+Dialogue: 0,1:21:52.39,1:21:54.33,Default,,0,0,0,,Ne radi nista.
+Dialogue: 0,1:21:54.36,1:21:56.06,Default,,0,0,0,,Ne opiri se.
+Dialogue: 0,1:22:17.65,1:22:19.05,Default,,0,0,0,,Uhvati ga.
+Dialogue: 0,1:22:20.55,1:22:21.56,Default,,0,0,0,,Pusti me!
+Dialogue: 0,1:22:22.59,1:22:23.72,Default,,0,0,0,,Ovuda.
+Dialogue: 0,1:22:27.46,1:22:28.80,Default,,0,0,0,,Čekaj!
+Dialogue: 0,1:22:28.83,1:22:30.03,Default,,0,0,0,,Sacekaj minutu!
+Dialogue: 0,1:22:32.33,1:22:33.50,Default,,0,0,0,,Nazad, Sela!
+Dialogue: 0,1:22:37.50,1:22:38.51,Default,,0,0,0,,Zac.
+Dialogue: 0,1:22:39.54,1:22:41.17,Default,,0,0,0,,Ne mozes nas zaustaviti.
+Dialogue: 0,1:22:41.21,1:22:42.34,Default,,0,0,0,,Pusti me da razgovaram sa tobom
+Dialogue: 0,1:22:43.81,1:22:45.45,Default,,0,0,0,,Zasto?
+Dialogue: 0,1:22:45.48,1:22:46.55,Default,,0,0,0,,Privatno.
+Dialogue: 0,1:22:49.08,1:22:51.72,Default,,0,0,0,,Ovdje mozete reci sve sto zelite.
+Dialogue: 0,1:22:55.72,1:22:57.26,Default,,0,0,0,,Želim biti s tobom.
+Dialogue: 0,1:23:00.39,1:23:01.63,Default,,0,0,0,,Želite se pridruziti mojoj grupi,
+Dialogue: 0,1:23:02.63,1:23:04.30,Default,,0,0,0,,ili zelite biti sa mnom?
+Dialogue: 0,1:23:05.40,1:23:06.40,Default,,0,0,0,,Oboje.
+Dialogue: 0,1:23:08.27,1:23:09.37,Default,,0,0,0,,Kladim se da znas.
+Dialogue: 0,1:23:10.10,1:23:11.10,Default,,0,0,0,,Imam.
+Dialogue: 0,1:23:13.17,1:23:15.14,Default,,0,0,0,,Drago mi je da ste se napokon opametili.
+Dialogue: 0,1:23:16.11,1:23:17.18,Default,,0,0,0,,Imam.
+Dialogue: 0,1:23:20.25,1:23:22.25,Default,,0,0,0,,Ucinit cu sve sto zelite.
+Dialogue: 0,1:23:22.28,1:23:23.45,Default,,0,0,0,,Siguran sam da hoces.
+Dialogue: 0,1:23:27.59,1:23:29.16,Default,,0,0,0,,Jedini problem ...
+Dialogue: 0,1:23:32.26,1:23:33.59,Default,,0,0,0,,... je da ja to ne zelim.
+Dialogue: 0,1:23:35.90,1:23:37.57,Default,,0,0,0,,Želis biti sa mnom,
+Dialogue: 0,1:23:39.17,1:23:41.40,Default,,0,0,0,,ali ne zelim biti s tobom.
+Dialogue: 0,1:23:44.91,1:23:47.27,Default,,0,0,0,,Mozda neko drugi zna.
+Dialogue: 0,1:23:48.47,1:23:50.24,Default,,0,0,0,,Ali ne ja.
+Dialogue: 0,1:23:50.28,1:23:52.75,Default,,0,0,0,,Jeste li svi poludjeli?
+Dialogue: 0,1:23:54.68,1:23:56.08,Default,,0,0,0,,Da li si?
+Dialogue: 0,1:23:56.88,1:23:58.32,Default,,0,0,0,,Zar ne vidite?
+Dialogue: 0,1:23:58.35,1:24:00.69,Default,,0,0,0,,Sve je ovo protiv nase prirode.
+Dialogue: 0,1:24:00.72,1:24:02.36,Default,,0,0,0,,Ovo nismo mi.
+Dialogue: 0,1:24:02.39,1:24:05.36,Default,,0,0,0,,Ovo smo mi.
+Dialogue: 0,1:24:05.39,1:24:07.09,Default,,0,0,0,,Ali ne moramo se tako ponasati.
+Dialogue: 0,1:24:07.66,1:24:09.13,Default,,0,0,0,,Mozemo razmisljati.
+Dialogue: 0,1:24:09.16,1:24:10.60,Default,,0,0,0,,Mozemo odluciti biti drugaciji.
+Dialogue: 0,1:24:10.63,1:24:12.87,Default,,0,0,0,,Umukni, ti genetski defekt.
+Dialogue: 0,1:24:12.90,1:24:15.50,Default,,0,0,0,,Mozemo odluciti sta je bolje.
+Dialogue: 0,1:24:15.54,1:24:16.70,Default,,0,0,0,,- Šuti. - Šuti.
+Dialogue: 0,1:24:16.74,1:24:18.71,Default,,0,0,0,,Pusti me da govorim!
+Dialogue: 0,1:24:18.74,1:24:22.21,Default,,0,0,0,,Pokusavamo ovdje imati smisla, a ti ne slusas.
+Dialogue: 0,1:24:22.24,1:24:23.34,Default,,0,0,0,,Šuti.
+Dialogue: 0,1:24:23.38,1:24:24.78,Default,,0,0,0,,- Šuti. - Šuti.
+Dialogue: 0,1:24:24.81,1:24:26.25,Default,,0,0,0,,Šuti. Šuti.
+Dialogue: 0,1:24:26.28,1:24:27.55,Default,,0,0,0,,Koje je bolje?
+Dialogue: 0,1:24:27.58,1:24:30.42,Default,,0,0,0,,Imati pravila i sloziti se ili ...
+Dialogue: 0,1:24:30.45,1:24:32.42,Default,,0,0,0,,Ili divljati i boriti se?
+Dialogue: 0,1:24:32.45,1:24:35.19,Default,,0,0,0,,Da divljaju.
+Dialogue: 0,1:24:35.22,1:24:38.46,Default,,0,0,0,,Da li zelite slusati razum i smisliti plan,
+Dialogue: 0,1:24:38.49,1:24:40.53,Default,,0,0,0,,ili zelite ...
+Dialogue: 0,1:25:18.46,1:25:19.53,Default,,0,0,0,,Vidis?
+Dialogue: 0,1:25:21.50,1:25:22.74,Default,,0,0,0,,Vidis sta mogu uciniti?
+Dialogue: 0,1:25:44.76,1:25:45.93,Default,,0,0,0,,Na koji nacin?
+Dialogue: 0,1:25:45.96,1:25:47.53,Default,,0,0,0,,Ti idi tim putem. Ja cu provjeriti ovdje.
+Dialogue: 0,1:25:56.60,1:25:57.60,Default,,0,0,0,,Ovuda.
+Dialogue: 0,1:26:24.63,1:26:26.90,Default,,0,0,0,,Provjerite u kadama. Provjerite hladnjake.
+Dialogue: 0,1:26:35.31,1:26:36.44,Default,,0,0,0,,Idemo.
+Dialogue: 0,1:26:36.48,1:26:37.48,Default,,0,0,0,,Prijavite se tamo.
+Dialogue: 0,1:26:41.62,1:26:42.78,Default,,0,0,0,,Nikako nisu mogli stati.
+Dialogue: 0,1:26:42.82,1:26:43.98,Default,,0,0,0,,Provjeri sve.
+Dialogue: 0,1:26:51.89,1:26:52.99,Default,,0,0,0,,Ova je otvorena.
+Dialogue: 0,1:27:01.10,1:27:02.40,Default,,0,0,0,,Pomakni se, idemo.
+Dialogue: 0,1:27:02.44,1:27:03.84,Default,,0,0,0,,- Šta? - Skloni se s puta.
+Dialogue: 0,1:27:21.86,1:27:23.06,Default,,0,0,0,,Zac, to je za nasu hranu.
+Dialogue: 0,1:27:27.39,1:27:28.46,Default,,0,0,0,,Idi da vidis imamo li ih.
+Dialogue: 0,1:27:55.69,1:27:56.92,Default,,0,0,0,,Trebali bismo ostati ...
+Dialogue: 0,1:27:58.49,1:28:00.73,Default,,0,0,0,,Provjerite ladice, pokusajte pronaci nesto.
+Dialogue: 0,1:28:06.50,1:28:08.87,Default,,0,0,0,,Pored vas, u kabinetu.
+Dialogue: 0,1:28:35.13,1:28:36.46,Default,,0,0,0,,Oni su u Med zalivu.
+Dialogue: 0,1:28:57.82,1:28:58.82,Default,,0,0,0,,Hej!
+Dialogue: 0,1:29:07.03,1:29:08.63,Default,,0,0,0,,Dobro si. Dobro si.
+Dialogue: 0,1:30:17.26,1:30:18.87,Default,,0,0,0,,Udji u svemirsko odijelo.
+Dialogue: 0,1:30:18.90,1:30:20.60,Default,,0,0,0,,Ako izadjemo, nikad se vise necemo vratiti.
+Dialogue: 0,1:31:33.27,1:31:35.14,Default,,0,0,0,,Zatvorite otvor.
+Dialogue: 0,1:31:35.18,1:31:36.18,Default,,0,0,0,,Zatvorite otvor.
+Dialogue: 0,1:31:37.18,1:31:39.11,Default,,0,0,0,,Zatvorite otvor.
+Dialogue: 0,1:31:39.15,1:31:40.88,Default,,0,0,0,,Pusten kiseonik u nuzdi.
+Dialogue: 0,1:31:48.26,1:31:49.62,Default,,0,0,0,,Unesite kod za zatvaranje.
+Dialogue: 0,1:31:56.30,1:31:57.80,Default,,0,0,0,,Zatvaranje grotla.
+Dialogue: 0,1:32:02.80,1:32:05.17,Default,,0,0,0,,Nivo kiseonika 70%.
+Dialogue: 0,1:32:08.28,1:32:10.84,Default,,0,0,0,,Nivo kiseonika 50%.
+Dialogue: 0,1:32:20.32,1:32:23.06,Default,,0,0,0,,- Nivo kiseonika 30%. - Ne!
+Dialogue: 0,1:32:42.11,1:32:43.31,Default,,0,0,0,,Pritisni sada.
+Dialogue: 0,1:32:44.68,1:32:46.01,Default,,0,0,0,,Pritisni sada.
+Dialogue: 0,1:32:59.69,1:33:01.23,Default,,0,0,0,,Hatch je stao.
+Dialogue: 0,1:34:09.20,1:34:10.20,Default,,0,0,0,,Idemo.
+Dialogue: 0,1:34:15.14,1:34:16.20,Default,,0,0,0,,Spusti oruzje.
+Dialogue: 0,1:34:17.37,1:34:18.37,Default,,0,0,0,,Zac je otisao.
+Dialogue: 0,1:34:53.31,1:34:55.21,Default,,0,0,0,,Kako osigurati da se to ne ponovi?
+Dialogue: 0,1:35:07.35,1:35:09.12,Default,,0,0,0,,Pa idemo sutra.
+Dialogue: 0,1:35:10.99,1:35:12.43,Default,,0,0,0,,I kako zapocinjemo svoje putovanje,
+Dialogue: 0,1:35:12.46,1:35:15.80,Default,,0,0,0,,Mislim na svijet koji ostavljamo za sobom.
+Dialogue: 0,1:35:15.83,1:35:18.16,Default,,0,0,0,,I kako sam to vidio u najboljem i u najgorem slucaju
+Dialogue: 0,1:35:19.40,1:35:20.43,Default,,0,0,0,,i kako
+Dialogue: 0,1:35:22.10,1:35:24.07,Default,,0,0,0,,imat cemo svoja losa vremena.
+Dialogue: 0,1:35:24.10,1:35:25.97,Default,,0,0,0,,Mislim, dolaze. Ne mogu tu nista uciniti.
+Dialogue: 0,1:35:27.51,1:35:29.44,Default,,0,0,0,,Ali takodje znam da cete vi prevladati.
+Dialogue: 0,1:35:31.95,1:35:33.11,Default,,0,0,0,,A nasi najbolji ce zivjeti dalje.
+Dialogue: 0,1:35:36.22,1:35:37.52,Default,,0,0,0,,Da nas vrijedi ustedjeti.
+Dialogue: 0,1:35:52.10,1:35:56.00,Default,,0,0,0,,A novi sef je ... Sela.
+Dialogue: 0,1:35:56.04,1:35:57.57,Default,,0,0,0,,Sada glasamo o svemu.
+Dialogue: 0,1:35:57.61,1:35:59.11,Default,,0,0,0,,Pokusaj postizanja konsenzusa.
+Dialogue: 0,1:36:01.31,1:36:04.98,Default,,0,0,0,,Nije lako, ali to je nacin na koji zelimo ici naprijed.
+Dialogue: 0,1:36:05.01,1:36:08.18,Default,,0,0,0,,I odlucili smo da se ne vracamo na plavo.
+Dialogue: 0,1:36:10.15,1:36:11.92,Default,,0,0,0,,Smatramo da je to najbolji nacin djelovanja.
+Dialogue: 0,1:36:11.95,1:36:13.32,Default,,0,0,0,,Da mozemo i bolje.
+Dialogue: 0,1:36:27.90,1:36:30.07,Default,,0,0,0,,Hej, sefe, upravo smo zapoceli ta azuriranja.
+Dialogue: 0,1:36:41.31,1:36:42.58,Default,,0,0,0,,I dalje vas boli glava?
+Dialogue: 0,1:36:43.68,1:36:44.98,Default,,0,0,0,,Samo je sutnula.

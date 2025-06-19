@@ -1,0 +1,178 @@
+/* Global Styling */
+body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(135deg, #74ebd5, #9face6);
+    color: #333;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    overflow: hidden;
+}
+
+.container {
+    text-align: center;
+    background: #fff;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    width: 90%;
+   /*  max-width: 600px; */
+}
+
+/* Heading */
+h1 {
+    margin-bottom: 20px;
+    font-size: 2rem;
+    color: #444;
+}
+
+/* Search Bar */
+input#subtitleSearch {
+    width: 100%;
+    padding: 15px;
+    font-size: 1rem;
+    border: 2px solid #ddd;
+    border-radius: 25px;
+    margin-bottom: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease-in-out;
+}
+
+input#subtitleSearch:focus {
+    outline: none;
+    border-color: #74ebd5;
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+}
+
+/* Dropdown Menu */
+select#languageSelect {
+    width: 100%;
+    padding: 15px;
+    font-size: 1rem;
+    border: 2px solid #ddd;
+    border-radius: 25px;
+    margin-bottom: 20px;
+    background: #fff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease-in-out;
+}
+
+select#languageSelect:focus {
+    outline: none;
+    border-color: #74ebd5;
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+}
+
+/* Buttons */
+button {
+    background: #74ebd5;
+    color: #fff;
+    border: none;
+    padding: 15px 30px;
+    font-size: 1rem;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+button:hover {
+    background: #9face6;
+    transform: scale(1.05);
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+}
+
+/* Results Section */
+#results {
+    max-height: 60vh; /* Limit the height of the container */
+    overflow-y: auto; /* Enable vertical scrolling */
+    padding: 10px;
+    margin-top: 20px;
+    background: #fff;
+    border-radius: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 100%; /* Expand the container to full width */
+}
+
+/* Individual Result Items */
+#results div {
+    display: flex; /* Flexbox for proper alignment */
+    justify-content: space-between; /* Space between name and button */
+    align-items: center; /* Vertically align items */
+    padding: 10px;
+    margin: 10px 0;
+    background: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+#results p {
+    margin: 0;
+    font-size: 1rem;
+    color: #555;
+    flex: 1; /* Allow the name to take up available space */
+    text-align: left;
+    padding-right: 10px; /* Space between name and button */
+}
+
+/* Download Button */
+#results a.download-btn {
+    text-decoration: none;
+    background: #74ebd5;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 0.9rem;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+#results a.download-btn:hover {
+    background: #9face6;
+    transform: scale(1.05);
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .container {
+        width: 95%;
+        padding: 20px;
+    }
+
+    h1 {
+        font-size: 1.5rem;
+    }
+
+    input#subtitleSearch,
+    select#languageSelect {
+        padding: 10px;
+        font-size: 0.9rem;
+    }
+
+    button {
+        padding: 10px 20px;
+        font-size: 0.9rem;
+    }
+
+    #results div {
+        flex-direction: column; /* Stack items vertically */
+        align-items: flex-start; /* Align items to the left */
+    }
+
+    #results p {
+        text-align: left;
+        padding: 5px 0;
+    }
+
+    #results a.download-btn {
+        width: 100%;
+        text-align: center;
+        margin-top: 5px;
+    }
+}

@@ -1,0 +1,78 @@
+<?php
+require_once('config.php');
+require_once(ABSPATH . '/code/post/upload-file-post.php');
+include_once("code/template/header.php");
+
+if ($user->expire_date == null) {
+	echo "<script>window.location.href ='/payment.php';</script>";
+} else {
+	$extendExpiredDate = date("Y-m-d", strtotime($user->expire_date . " +10 days"));
+	$todayDate = Date('Y-m-d');
+	if ($todayDate > $extendExpiredDate) {
+		echo "<script>window.location.href ='/payment.php';</script>";
+	}
+}
+
+if ($user->is_active == 2 || $user->is_active == 0) {
+	echo "<script>window.location.href ='/payment.php';</script>";
+}
+?>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Subtitle Search</title>
+    <!-- Axios CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <div class="container">
+    <h1>Search Subtitles</h1>
+    <input type="text" id="subtitleSearch" placeholder="Type movie name">
+    <select id="languageSelect">
+        <option value="en">English</option>
+        <option value="es">Spanish</option>
+        <option value="fr">French</option>
+        <option value="de">German</option>
+        <option value="it">Italian</option>
+        <option value="pt">Portuguese</option>
+        <option value="ru">Russian</option>
+        <option value="zh">Chinese</option>
+        <option value="ja">Japanese</option>
+        <option value="ko">Korean</option>
+        <option value="ar">Arabic</option>
+        <option value="pl">Polish</option>
+        <option value="nl">Dutch</option>
+        <option value="sv">Swedish</option>
+        <option value="no">Norwegian</option>
+        <option value="fi">Finnish</option>
+        <option value="da">Danish</option>
+        <option value="cs">Czech</option>
+        <option value="el">Greek</option>
+        <option value="tr">Turkish</option>
+        <option value="he">Hebrew</option>
+        <option value="hu">Hungarian</option>
+        <option value="ro">Romanian</option>
+        <option value="sk">Slovak</option>
+        <option value="bg">Bulgarian</option>
+        <option value="sr">Serbian</option>
+        <option value="hr">Croatian</option>
+        <option value="sl">Slovenian</option>
+        <option value="th">Thai</option>
+        <option value="vi">Vietnamese</option>
+        <option value="id">Indonesian</option>
+    </select>
+    <button id="searchButton">Search</button>
+    <div id="results"></div>
+    </div>
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>
+<!-- /.content -->
+<?php
+include_once("code/template/footer.php");
+?>

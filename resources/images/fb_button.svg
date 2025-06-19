@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="81.513" height="20" viewBox="0 0 81.513 20">
+  <g id="Grupo_62" data-name="Grupo 62" transform="translate(-255 -1040)">
+    <g id="Grupo_5" data-name="Grupo 5" transform="translate(-8 215)">
+      <rect id="Retângulo_185" data-name="Retângulo 185" width="81.513" height="20" rx="4" transform="translate(263 825)" fill="#1877f2"/>
+      <g id="Grupo_61" data-name="Grupo 61" transform="translate(278 828)">
+        <ellipse id="Elipse_4" data-name="Elipse 4" cx="7.381" cy="7.381" rx="7.381" ry="7.381" fill="#fff"/>
+        <g id="Facebook" transform="translate(4.429 2.952)">
+          <path id="Caminho_1" data-name="Caminho 1" d="M84.252,12.548V6.832H86.2L86.483,4.6H84.252V3.207c0-.627.209-1.115,1.115-1.115h1.185V.07C86.274.07,85.577,0,84.81,0a2.691,2.691,0,0,0-2.858,2.928V4.6H80V6.832h1.952v5.716Z" transform="translate(-80)" fill="#1877f2" fill-rule="evenodd"/>
+        </g>
+        <text id="Share" transform="translate(24 12)" fill="#fff" font-size="12" font-family="Roboto, sans-serif"><tspan x="0" y="0">Share</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

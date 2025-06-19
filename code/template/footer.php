@@ -1,0 +1,49 @@
+</div>
+  <!-- /.content-wrapper -->
+
+  <footer class="notranslate main-footer">
+    <div class="pull-right hidden-xs">
+      <b>Version</b> 1.1.0
+    </div>
+    <strong>Copyright vip.translatesubtitles.co &copy; 2023.</strong> All rights
+    reserved.
+  </footer>
+
+  <!-- Control Sidebar -->
+  <!-- Add the sidebar's background. This div must be placed
+       immediately after the control sidebar -->
+  <div class="control-sidebar-bg"></div>
+</div>
+<!-- ./wrapper -->
+
+<!-- jQuery 3 -->
+<script src="<?php HREF('/content/lib/jquery/dist/jquery.min.js'); ?>"></script>
+<!-- Bootstrap 3.3.7 -->
+<script src="<?php HREF('/content/lib/bootstrap/dist/js/bootstrap.min.js'); ?>"></script>
+<!-- SlimScroll -->
+<script src="<?php HREF('/content/lib/jquery-slimscroll/jquery.slimscroll.min.js'); ?>"></script>
+<script src="<?php HREF('/js/jquery.dataTables.min.js'); ?>"></script>
+<!-- FastClick -->
+<script src="<?php HREF('/content/lib/fastclick/lib/fastclick.js'); ?>"></script>
+<!-- AdminLTE App -->
+<script src="<?php HREF('/content/js/adminlte.min.js'); ?>"></script>
+<!-- AdminLTE for demo purposes -->
+<script src="<?php HREF('/content/js/demo.js'); ?>"></script>
+<script>
+  $(document).ready(function () {
+    $('.sidebar-menu').tree()
+  })
+  
+</script>
+    <script type="text/javascript">
+
+        function mypopup(url) {
+            width = window.screen.width;
+            height = window.screen.height;
+            mywindow = window.open(url, "File Uploads", "location=0,status=1,scrollbars=1,resizable=1,menubar=0,toolbar=no,width=" + width + ",height=" + height);
+            mywindow.moveTo(0, 0);
+            mywindow.focus();
+        }
+    </script>
+</body>
+</html>
